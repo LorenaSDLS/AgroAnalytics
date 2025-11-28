@@ -1,0 +1,2476 @@
+CVEGEO,CLAVE,TIPO_N,TIPO_C,CLASS_ATLA
+1001,BS1kw,54,Semiseco templado,Seco y semiseco
+1002,BS1kw,54,Semiseco templado,Seco y semiseco
+1003,BS1kw,32,Templado subh?medo,Seco y semiseco
+1004,BS1kw,54,Semiseco templado,Seco y semiseco
+1005,BS1kw,54,Semiseco templado,Seco y semiseco
+1006,BS1kw,54,Semiseco templado,Seco y semiseco
+1007,BS1kw,54,Semiseco templado,Seco y semiseco
+1008,BS1kw,32,Templado subh?medo,Seco y semiseco
+1009,BS1kw,54,Semiseco templado,Seco y semiseco
+1010,BS1kw,54,Semiseco templado,Seco y semiseco
+1011,BS1kw,54,Semiseco templado,Seco y semiseco
+2001,BSks,59,Seco templado,Muy seco o seco desertico
+2002,BW(h')hs(x'),62,Muy seco c?lido,Muy seco o seco desertico
+2003,BWhs(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+2004,BSks,59,Seco templado,Seco y semiseco
+2005,BSks,59,Seco templado,Seco y semiseco
+2006,BW(h')hw(x'),62,Muy seco c?lido,Muy seco o seco desertico
+2007,BW(h')hw(x'),64,Muy seco templado,Muy seco o seco desertico
+3001,BWhs(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+3002,BWhs(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+3003,BW(h')hw(x'),62,Muy seco c?lido,Muy seco o seco desertico
+3008,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+3009,BW(h')hw(x'),62,Muy seco c?lido,Muy seco o seco desertico
+4001,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+4002,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+4003,Aw2(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+4004,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+4005,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+4006,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+4007,Am(f),11,C?lido h?medo,Calido H¿medo
+4008,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+4009,Aw2(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+4010,Aw2(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+4011,Aw2(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+4012,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+4013,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+5001,BS1kw,54,Semiseco templado,Seco y semiseco
+5002,BS0kw(x'),59,Seco templado,Seco y semiseco
+5003,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+5004,C(E)x',42,Semifr?o subh?medo,Templado subh¿medo
+5005,BS1kw,54,Semiseco templado,Seco y semiseco
+5006,BS0kx',59,Seco templado,Seco y semiseco
+5007,BS1kw,59,Seco templado,Seco y semiseco
+5008,BS0(h')hw,57,Seco c?lido,Seco y semiseco
+5009,BS0kw,59,Seco templado,Seco y semiseco
+5010,BS0hx',58,Seco semic?lido,Seco y semiseco
+5011,C(E)x',54,Semiseco templado,Seco y semiseco
+5012,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+5013,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+5014,BWhw(x'),63,Muy seco semic?lido,Seco y semiseco
+5015,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+5016,BWhx',58,Seco semic?lido,Seco y semiseco
+5017,BWhw,63,Muy seco semic?lido,Muy seco o seco desertico
+5018,BS1kw,54,Semiseco templado,Seco y semiseco
+5019,BS1hw,58,Seco semic?lido,Seco y semiseco
+5020,BS1kw,54,Semiseco templado,Seco y semiseco
+5021,BS0kw,58,Seco semic?lido,Seco y semiseco
+5022,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+5023,BS0kw,59,Seco templado,Seco y semiseco
+5024,BS0kw,58,Seco semic?lido,Seco y semiseco
+5025,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+5026,BS1hw,57,Seco c?lido,Seco y semiseco
+5027,BS0hx',58,Seco semic?lido,Seco y semiseco
+5028,BS1hw,58,Seco semic?lido,Seco y semiseco
+5029,BWhx',63,Muy seco semic?lido,Muy seco o seco desertico
+5030,C(E)x',42,Semifr?o subh?medo,Seco y semiseco
+5031,BS0kw,59,Seco templado,Seco y semiseco
+5032,BS1hw,58,Seco semic?lido,Seco y semiseco
+5033,BS1kw,54,Semiseco templado,Seco y semiseco
+5034,BS0kw,59,Seco templado,Seco y semiseco
+5035,BWhw,63,Muy seco semic?lido,Muy seco o seco desertico
+5036,BS0kw,59,Seco templado,Seco y semiseco
+5037,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+5038,BWhw(x'),58,Seco semic?lido,Seco y semiseco
+6001,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+6002,BS1(h')w(w),12,C?lido subh?medo,C¿lido Subh¿medo
+6003,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+6004,A(C)w1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+6005,C(w2),32,Templado subh?medo,C¿lido Subh¿medo
+6006,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+6007,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+6008,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+6009,BW(h')w,61,Muy seco muy c?lido,Muy seco o seco desertico
+6010,(A)C(w1)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7001,Am(w),11,C?lido h?medo,Calido H¿medo
+7002,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7003,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7004,Am,11,C?lido h?medo,Calido H¿medo
+7005,A(C)f(m),11,C?lido h?medo,Calido H¿medo
+7006,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+7007,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+7008,C(m)(w),31,Templado h?medo,Templado h¿medo
+7009,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7010,A(C)m(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7011,C(m)(w),31,Templado h?medo,Templado h¿medo
+7012,Am,11,C?lido h?medo,Calido H¿medo
+7013,Am(f),12,C?lido subh?medo,C¿lido Subh¿medo
+7014,A(C)f(m),21,Semic?lido h?medo,Calido H¿medo
+7015,Am(w),11,C?lido h?medo,Calido H¿medo
+7016,Am(f),11,C?lido h?medo,Calido H¿medo
+7017,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7018,Am(f),11,C?lido h?medo,Calido H¿medo
+7019,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+7020,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+7021,Am,11,C?lido h?medo,Calido H¿medo
+7022,Am,11,C?lido h?medo,Calido H¿medo
+7023,(A)C(m),32,Templado subh?medo,Calido H¿medo
+7024,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+7025,Af(m),11,C?lido h?medo,Calido H¿medo
+7026,Am,11,C?lido h?medo,Calido H¿medo
+7027,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7028,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7029,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+7030,C(m)(w),31,Templado h?medo,Templado h¿medo
+7031,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+7032,Am(w),11,C?lido h?medo,Calido H¿medo
+7033,Af(m),11,C?lido h?medo,Calido H¿medo
+7034,(A)C(m)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7035,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7036,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+7037,Am(w),11,C?lido h?medo,Calido H¿medo
+7038,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+7039,A(C)f(m),11,C?lido h?medo,Calido H¿medo
+7040,Am(w),11,C?lido h?medo,Calido H¿medo
+7041,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+7042,Af(m),11,C?lido h?medo,Calido H¿medo
+7043,Af(m),11,C?lido h?medo,Calido H¿medo
+7044,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7045,Af(m),11,C?lido h?medo,Calido H¿medo
+7046,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7047,Am(f),11,C?lido h?medo,Calido H¿medo
+7048,Am(f),11,C?lido h?medo,Calido H¿medo
+7049,Am(f),11,C?lido h?medo,Calido H¿medo
+7050,Am(f),11,C?lido h?medo,Calido H¿medo
+7051,Am(w),11,C?lido h?medo,Calido H¿medo
+7052,C(m),32,Templado subh?medo,Templado h¿medo
+7053,A(C)m(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7054,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7055,Am(w),11,C?lido h?medo,Calido H¿medo
+7056,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+7057,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+7058,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7059,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+7060,A(C)f(m),21,Semic?lido h?medo,Calido H¿medo
+7061,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+7062,Af(m),11,C?lido h?medo,Calido H¿medo
+7063,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+7064,C(fm),31,Templado h?medo,Templado h¿medo
+7065,Am(f),11,C?lido h?medo,Calido H¿medo
+7066,A(C)f(m),21,Semic?lido h?medo,Calido H¿medo
+7067,Am(f),11,C?lido h?medo,Calido H¿medo
+7068,Af(m),11,C?lido h?medo,Calido H¿medo
+7069,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+7070,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+7071,Am(w),11,C?lido h?medo,Calido H¿medo
+7072,C(fm),11,C?lido h?medo,Calido H¿medo
+7073,Am(f),11,C?lido h?medo,Calido H¿medo
+7074,Am(f),11,C?lido h?medo,Calido H¿medo
+7075,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+7076,Af(m),11,C?lido h?medo,Calido H¿medo
+7077,Af(m),11,C?lido h?medo,Calido H¿medo
+7078,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+7079,Am,11,C?lido h?medo,Calido H¿medo
+7080,C(m)(w),31,Templado h?medo,Templado h¿medo
+7081,A(C)f(m),21,Semic?lido h?medo,Calido H¿medo
+7082,Am,11,C?lido h?medo,Calido H¿medo
+7083,(A)C(w1)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7084,A(C)f(m),21,Semic?lido h?medo,Calido H¿medo
+7085,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7086,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+7087,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7088,Af(m),11,C?lido h?medo,Calido H¿medo
+7089,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7090,Af(m),11,C?lido h?medo,Calido H¿medo
+7091,Af(m),11,C?lido h?medo,Calido H¿medo
+7092,Am(f),11,C?lido h?medo,Calido H¿medo
+7093,Am,11,C?lido h?medo,Calido H¿medo
+7094,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+7096,Af(m),11,C?lido h?medo,Calido H¿medo
+7097,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+7098,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7099,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+7100,Af(m),11,C?lido h?medo,Calido H¿medo
+7101,A(C)w1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7102,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7103,Am(w),11,C?lido h?medo,Calido H¿medo
+7104,(A)C(w1)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7105,Am(w),11,C?lido h?medo,Calido H¿medo
+7106,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+7107,C(m)(w),31,Templado h?medo,Calido H¿medo
+7108,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+7109,Af(m),11,C?lido h?medo,Calido H¿medo
+7110,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+7111,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+7112,Am,11,C?lido h?medo,Calido H¿medo
+7113,Am,11,C?lido h?medo,Calido H¿medo
+7114,Am,11,C?lido h?medo,Calido H¿medo
+7115,Am,11,C?lido h?medo,Calido H¿medo
+7116,Am,11,C?lido h?medo,Calido H¿medo
+7117,C(m)(w),31,Templado h?medo,Templado h¿medo
+7118,A(C)f(m),21,Semic?lido h?medo,Calido H¿medo
+7119,Am,11,C?lido h?medo,Calido H¿medo
+7120,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+7121,Am(f),11,C?lido h?medo,Calido H¿medo
+7122,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+7123,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+7124,Am,11,C?lido h?medo,Calido H¿medo
+7125,C(m)(w),31,Templado h?medo,Templado h¿medo
+8001,BS0kw,64,Muy seco templado,Muy seco o seco desertico
+8002,BWkw(w),64,Muy seco templado,Muy seco o seco desertico
+8003,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8004,BS0hw(w),58,Seco semic?lido,Seco y semiseco
+8005,BS0kw(x'),59,Seco templado,Seco y semiseco
+8006,BS1k''w,42,Semifr?o subh?medo,Seco y semiseco
+8007,C(w1),32,Templado subh?medo,Templado subh¿medo
+8008,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+8009,C(E)(w1),42,Semifr?o subh?medo,Templado subh¿medo
+8010,C(E)(w1),64,Muy seco templado,Muy seco o seco desertico
+8011,BS0kw(w),59,Seco templado,Seco y semiseco
+8012,C(E)(w1),42,Semifr?o subh?medo,Templado subh¿medo
+8013,C(w0)(x'),32,Templado subh?medo,Templado subh¿medo
+8014,BS0kw(w),59,Seco templado,Seco y semiseco
+8015,BS0kw,59,Seco templado,Seco y semiseco
+8016,BS0hw(w),58,Seco semic?lido,Seco y semiseco
+8017,BS1k''w,55,Semiseco semifr?o,Seco y semiseco
+8018,C(E)(w1),42,Semifr?o subh?medo,Seco y semiseco
+8019,BS0hw(w),54,Semiseco templado,Seco y semiseco
+8020,C(w1),32,Templado subh?medo,Templado subh¿medo
+8021,BWhw,63,Muy seco semic?lido,Muy seco o seco desertico
+8022,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8023,BWkw(x'),64,Muy seco templado,Seco y semiseco
+8024,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8025,C(E)(w2)(x'),42,Semifr?o subh?medo,Templado subh¿medo
+8026,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8027,C(w1),32,Templado subh?medo,Templado subh¿medo
+8028,BS0kw,64,Muy seco templado,Muy seco o seco desertico
+8029,C(E)(w2),32,Templado subh?medo,Templado subh¿medo
+8030,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+8031,C(w1),32,Templado subh?medo,Templado subh¿medo
+8032,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+8033,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8034,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+8035,C(E)(w1)(x'),42,Semifr?o subh?medo,Templado subh¿medo
+8036,BS0kw(w),59,Seco templado,Seco y semiseco
+8037,BWkw(x'),64,Muy seco templado,Muy seco o seco desertico
+8038,BS0kw,59,Seco templado,Muy seco o seco desertico
+8039,BS0kw(w),59,Seco templado,Seco y semiseco
+8040,C(w0)(x'),32,Templado subh?medo,Templado subh¿medo
+8041,C(w2)(x'),32,Templado subh?medo,Templado subh¿medo
+8042,BS0kw,63,Muy seco semic?lido,Muy seco o seco desertico
+8043,BS1kw,42,Semifr?o subh?medo,Templado subh¿medo
+8044,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8045,BS0hw(w),63,Muy seco semic?lido,Muy seco o seco desertico
+8046,C(w1),32,Templado subh?medo,C¿lido Subh¿medo
+8047,C(w2)(x'),32,Templado subh?medo,Templado subh¿medo
+8048,C(E)(w1),42,Semifr?o subh?medo,Templado subh¿medo
+8049,C(E)(w1),42,Semifr?o subh?medo,Templado subh¿medo
+8050,BS0kw(x'),59,Seco templado,Seco y semiseco
+8051,C(E)(w2)(x'),32,Templado subh?medo,Templado subh¿medo
+8052,BS0kw,59,Seco templado,Seco y semiseco
+8053,BWkw,64,Muy seco templado,Muy seco o seco desertico
+8054,C(E)(w1),54,Semiseco templado,Seco y semiseco
+8055,BS1kw(w),63,Muy seco semic?lido,Seco y semiseco
+8056,C(E)(w2),42,Semifr?o subh?medo,Seco y semiseco
+8057,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8058,BS0hw(w),58,Seco semic?lido,Seco y semiseco
+8059,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8060,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8061,BS0kw(w),59,Seco templado,Seco y semiseco
+8062,BS0kw(w),59,Seco templado,Seco y semiseco
+8063,C(E)(w2)(x'),42,Semifr?o subh?medo,Templado subh¿medo
+8064,BS1kw(w),54,Semiseco templado,Seco y semiseco
+8065,(A)C(w0),32,Templado subh?medo,Templado subh¿medo
+8066,(A)C(w0),32,Templado subh?medo,Templado subh¿medo
+8067,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+9002,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+9003,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+9004,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+9005,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+9006,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+9007,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+9008,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+9009,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+9010,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+9011,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+9012,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+9013,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+9014,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+9015,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+9016,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+9017,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+10001,C(w2),32,Templado subh?medo,Templado subh¿medo
+10002,C(E)(w2)(x'),32,Templado subh?medo,Templado subh¿medo
+10003,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10004,BS0kw(w),54,Semiseco templado,Seco y semiseco
+10005,C(w1),32,Templado subh?medo,Templado subh¿medo
+10006,BS0kw,59,Seco templado,Seco y semiseco
+10007,BWhw,63,Muy seco semic?lido,Muy seco o seco desertico
+10008,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10009,C(w1),32,Templado subh?medo,Templado subh¿medo
+10010,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10011,BS0kw(w),59,Seco templado,Seco y semiseco
+10012,BS0kw(w),59,Seco templado,Seco y semiseco
+10013,BS0kw(w),59,Seco templado,Seco y semiseco
+10014,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+10015,BS0kw(w),59,Seco templado,Seco y semiseco
+10016,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10017,C(w1),32,Templado subh?medo,Templado subh¿medo
+10018,BS0kw(w),59,Seco templado,Seco y semiseco
+10019,C(E)(w2)(x'),32,Templado subh?medo,Templado subh¿medo
+10020,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10021,BS0hw(w),58,Seco semic?lido,Seco y semiseco
+10022,C(w0),54,Semiseco templado,Seco y semiseco
+10023,C(E)(w2),32,Templado subh?medo,C¿lido Subh¿medo
+10024,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10025,C(E)(w1),42,Semifr?o subh?medo,Templado subh¿medo
+10026,C(w2),32,Templado subh?medo,Templado subh¿medo
+10027,BS0kw,59,Seco templado,Seco y semiseco
+10028,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10029,BS0kw(w),59,Seco templado,Seco y semiseco
+10030,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10031,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10032,C(E)(w1),42,Semifr?o subh?medo,Templado subh¿medo
+10033,BS1hw,54,Semiseco templado,Seco y semiseco
+10034,(A)C(w1),32,Templado subh?medo,C¿lido Subh¿medo
+10035,C(w1),32,Templado subh?medo,Templado subh¿medo
+10036,BS0kw,59,Seco templado,Seco y semiseco
+10037,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+10038,BS1kw(w),54,Semiseco templado,Seco y semiseco
+10039,C(E)(w1),42,Semifr?o subh?medo,Templado subh¿medo
+11001,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+11002,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11003,BS1kw,32,Templado subh?medo,Seco y semiseco
+11004,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+11005,BS1kw(w),54,Semiseco templado,Seco y semiseco
+11006,C(w1),32,Templado subh?medo,Templado subh¿medo
+11007,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+11008,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+11009,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+11010,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11011,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11012,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+11013,BS1kw,54,Semiseco templado,Seco y semiseco
+11014,BS1kw,32,Templado subh?medo,Seco y semiseco
+11015,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11016,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+11017,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11018,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11019,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11020,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11021,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11022,BS1kw,54,Semiseco templado,Seco y semiseco
+11023,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+11024,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+11025,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+11026,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+11027,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11028,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11029,BS1kw,54,Semiseco templado,Seco y semiseco
+11030,C(w0),32,Templado subh?medo,Seco y semiseco
+11031,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+11032,BS1kw,54,Semiseco templado,Seco y semiseco
+11033,BS1kw,54,Semiseco templado,Seco y semiseco
+11034,BS1kw(w),54,Semiseco templado,Seco y semiseco
+11035,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11036,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11037,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11038,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11039,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11040,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+11041,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+11042,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+11043,BS1kw,54,Semiseco templado,Seco y semiseco
+11044,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+11045,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+11046,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+12001,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12002,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12003,C(w2)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12004,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12005,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12006,A(C)w1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12007,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12008,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+12009,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12010,Aw0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12011,A(C)w2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12012,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12013,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12014,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12015,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12016,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12017,A(C)w1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12018,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12019,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12020,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12021,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+12022,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+12023,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12024,BS1(h')w(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12025,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12026,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12027,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12028,C(w2)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12029,(A)C(m)(w),21,Semic?lido h?medo,C¿lido Subh¿medo
+12030,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12031,A(C)w1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12032,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12033,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12034,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12035,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12036,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12037,A(C)w1(w),32,Templado subh?medo,C¿lido Subh¿medo
+12038,A(C)w2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12039,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12040,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12041,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+12042,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12043,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12044,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+12045,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12046,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12047,A(C)w1(w),32,Templado subh?medo,C¿lido Subh¿medo
+12048,A(C)w2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12049,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12050,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12051,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+12052,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12053,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12054,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12055,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+12056,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12057,A(C)w2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12058,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+12059,BS1(h')w(w),51,Semiseco muy c?lido,C¿lido Subh¿medo
+12060,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12061,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12062,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12063,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+12064,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12065,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12066,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12067,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12068,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12069,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12070,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12071,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12072,C(w2)(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12073,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12074,BS1(h')w(w),32,Templado subh?medo,C¿lido Subh¿medo
+12075,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12076,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+12077,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12078,Aw2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+12079,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12080,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12081,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12082,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12083,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12084,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+12085,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+13001,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13002,C(w2),32,Templado subh?medo,Templado subh¿medo
+13003,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+13004,C(w2),32,Templado subh?medo,Templado subh¿medo
+13005,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13006,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+13007,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+13008,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+13009,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+13010,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13011,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+13012,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13013,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13014,C(fm),31,Templado h?medo,Templado h¿medo
+13015,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+13016,C(w2),32,Templado subh?medo,Templado subh¿medo
+13017,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+13018,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+13019,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13020,C(w2),32,Templado subh?medo,Seco y semiseco
+13021,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13022,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+13023,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13024,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13025,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+13026,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+13027,C(fm),31,Templado h?medo,Calido H¿medo
+13028,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+13029,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+13030,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+13031,BS1(h')hw(w),32,Templado subh?medo,C¿lido Subh¿medo
+13032,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+13033,C(w2),32,Templado subh?medo,Seco y semiseco
+13034,C(fm),31,Templado h?medo,Templado h¿medo
+13035,C(w2),32,Templado subh?medo,Templado subh¿medo
+13036,C(w2),32,Templado subh?medo,Seco y semiseco
+13037,BS1kw,32,Templado subh?medo,Seco y semiseco
+13038,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13039,C(E)(w2),32,Templado subh?medo,Templado subh¿medo
+13040,Aw0,32,Templado subh?medo,C¿lido Subh¿medo
+13041,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13042,C(w2),31,Templado h?medo,Templado h¿medo
+13043,C(w2),32,Templado subh?medo,Templado subh¿medo
+13044,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13045,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+13046,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+13047,BS1(h')hw(w),32,Templado subh?medo,C¿lido Subh¿medo
+13048,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+13049,(A)C(m)(w),21,Semic?lido h?medo,C¿lido Subh¿medo
+13050,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13051,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+13052,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13053,C(fm),31,Templado h?medo,Templado h¿medo
+13054,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13055,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13056,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13057,BS1kw,32,Templado subh?medo,Templado subh¿medo
+13058,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13059,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13060,C(fm),31,Templado h?medo,Templado h¿medo
+13061,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13062,Aw2,32,Templado subh?medo,C¿lido Subh¿medo
+13063,BS1kw(w),32,Templado subh?medo,Templado subh¿medo
+13064,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13065,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13066,BS1kw,54,Semiseco templado,Seco y semiseco
+13067,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13068,C(fm),31,Templado h?medo,Templado h¿medo
+13069,BS1kw,54,Semiseco templado,Seco y semiseco
+13070,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13071,C(w2),32,Templado subh?medo,C¿lido Subh¿medo
+13072,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+13073,C(fm),31,Templado h?medo,Templado h¿medo
+13074,BS1kw(w),54,Semiseco templado,Seco y semiseco
+13075,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+13076,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+13077,C(w2),32,Templado subh?medo,Templado subh¿medo
+13078,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+13079,C(w2),31,Templado h?medo,Templado h¿medo
+13080,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+13081,C(w2),32,Templado subh?medo,Seco y semiseco
+13082,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+13083,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+13084,C(w2),32,Templado subh?medo,Seco y semiseco
+14001,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14002,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+14003,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+14004,BS1hw(w),32,Templado subh?medo,Templado subh¿medo
+14005,(A)C(w1)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+14006,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14007,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14008,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14009,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14010,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14011,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+14012,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14013,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14014,BS1hw(w),32,Templado subh?medo,Templado subh¿medo
+14015,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14016,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14017,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14018,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14019,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14020,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+14021,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14022,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+14023,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14024,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14025,BS1kw,32,Templado subh?medo,Seco y semiseco
+14026,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14027,A(C)w2(w),32,Templado subh?medo,C¿lido Subh¿medo
+14028,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14029,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14030,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14031,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+14032,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14033,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14034,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14035,BS1kw,54,Semiseco templado,Seco y semiseco
+14036,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+14037,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14038,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14039,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14040,A(C)w1(w),32,Templado subh?medo,C¿lido Subh¿medo
+14041,BS1kw,32,Templado subh?medo,Seco y semiseco
+14042,C(w0),32,Templado subh?medo,Seco y semiseco
+14043,BS1(h')w(w),51,Semiseco muy c?lido,C¿lido Subh¿medo
+14044,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14045,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14046,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14047,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14048,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14049,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+14050,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+14051,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14052,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+14053,BS1kw,32,Templado subh?medo,Seco y semiseco
+14054,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14055,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14056,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+14057,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14058,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14059,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14060,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14061,C(w1),32,Templado subh?medo,Seco y semiseco
+14062,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+14063,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14064,BS1kw,54,Semiseco templado,Seco y semiseco
+14065,BS1(h')w(w),12,C?lido subh?medo,C¿lido Subh¿medo
+14066,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14067,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+14068,A(C)w2(w),32,Templado subh?medo,C¿lido Subh¿medo
+14069,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+14070,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14071,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14072,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+14073,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+14074,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+14075,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14076,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14077,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14078,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+14079,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14080,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14081,BS1kw,32,Templado subh?medo,Seco y semiseco
+14082,C(w2),32,Templado subh?medo,Templado subh¿medo
+14083,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14084,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+14085,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14086,C(w2),32,Templado subh?medo,C¿lido Subh¿medo
+14087,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+14088,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14089,BS1hw(w),32,Templado subh?medo,Templado subh¿medo
+14090,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14091,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+14092,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+14093,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14094,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14095,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14096,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14097,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14098,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14099,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14100,C(w2)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+14101,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14102,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14103,C(w2),32,Templado subh?medo,C¿lido Subh¿medo
+14104,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14105,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14106,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14107,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+14108,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+14109,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+14110,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14111,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+14112,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+14113,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14114,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14115,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+14116,BS1kw,32,Templado subh?medo,Seco y semiseco
+14117,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+14118,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14119,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+14120,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14121,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14122,C(w2),32,Templado subh?medo,C¿lido Subh¿medo
+14123,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+14124,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+14125,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15001,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15002,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15003,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15004,A(C)w1(w),32,Templado subh?medo,C¿lido Subh¿medo
+15005,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15006,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15007,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15008,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15009,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15010,BS1kw(w),54,Semiseco templado,Seco y semiseco
+15011,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15012,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15013,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15014,C(E)(w0)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15015,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15016,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+15017,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15018,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15019,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15020,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15021,A(C)w1(w),22,Semic?lido subh?medo,Templado subh¿medo
+15022,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15023,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15024,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15025,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15026,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15027,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15028,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15029,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15030,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15031,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15032,(A)C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15033,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15034,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15035,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15036,BS1kw(w),54,Semiseco templado,Seco y semiseco
+15037,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15038,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15039,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15040,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+15041,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15042,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15043,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15044,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15045,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15046,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15047,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15048,C(E)(w0)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15049,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15050,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15051,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15052,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+15053,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15054,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15055,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15056,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15057,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15058,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15059,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15060,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15061,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15062,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15063,C(E)(w2)(w),22,Semic?lido subh?medo,Templado subh¿medo
+15064,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15065,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15066,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15067,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15068,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+15069,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15070,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15071,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+15072,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15073,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15074,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15075,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15076,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15077,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15078,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15079,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15080,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15081,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15082,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+15083,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15084,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15085,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15086,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+15087,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15088,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+15089,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15090,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15091,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15092,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15093,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15094,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+15095,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15096,BS1kw(w),54,Semiseco templado,Seco y semiseco
+15097,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15098,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15099,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15100,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15101,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15102,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15103,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15104,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15105,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15106,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15107,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+15108,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15109,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15110,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15111,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15112,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+15113,A(C)w1(w),22,Semic?lido subh?medo,Templado subh¿medo
+15114,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15115,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15116,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+15117,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+15118,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15119,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+15120,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+15121,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15122,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+15123,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+15124,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+15125,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+16001,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16002,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16003,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16004,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16005,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16006,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16007,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16008,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16009,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16010,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+16011,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16012,BS1(h')w(w),51,Semiseco muy c?lido,C¿lido Subh¿medo
+16013,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+16014,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16015,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16016,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16017,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16018,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+16019,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16020,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+16021,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16022,(A)C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16023,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+16024,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16025,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16026,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+16027,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16028,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16029,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16030,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16031,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16032,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16033,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16034,C(E)(m)(w),32,Templado subh?medo,Frio
+16035,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16036,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16037,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16038,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+16039,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16040,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16041,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16042,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16043,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16044,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16045,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16046,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16047,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16048,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16049,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+16050,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16051,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16052,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16053,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16054,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16055,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+16056,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16057,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16058,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16059,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16060,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16061,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16062,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+16063,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16064,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+16065,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16066,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+16067,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16068,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+16069,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16070,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16071,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16072,C(E)(m)(w),32,Templado subh?medo,Templado subh¿medo
+16073,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16074,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16075,C(E)(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16076,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16077,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16078,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16079,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16080,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16081,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16082,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16083,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16084,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16085,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16086,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16087,(A)C(w2)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16088,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16089,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16090,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+16091,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16092,(A)C(w1)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+16093,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16094,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16095,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16096,A(C)w1(w),32,Templado subh?medo,C¿lido Subh¿medo
+16097,A(C)w0(w),32,Templado subh?medo,C¿lido Subh¿medo
+16098,(A)C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16099,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16100,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16101,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16102,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16103,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16104,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16105,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16106,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16107,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+16108,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16109,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16110,C(E)(m)(w),32,Templado subh?medo,Templado subh¿medo
+16111,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+16112,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+16113,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+17001,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17002,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17003,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17004,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17005,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17006,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17007,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17008,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17009,C(E)(m)(w),70,Fr?o,Frio
+17010,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17011,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17012,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17013,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17014,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17015,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17016,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17017,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17018,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17019,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17020,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+17021,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17022,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+17023,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+17024,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17025,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17026,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17027,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17028,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17029,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17030,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17031,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17032,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17033,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+17034,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17035,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+17036,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+18001,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18002,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+18003,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+18004,A(C)w1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18005,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+18006,Aw0(w),32,Templado subh?medo,C¿lido Subh¿medo
+18007,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+18008,Aw2(w),32,Templado subh?medo,C¿lido Subh¿medo
+18009,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+18010,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18011,A(C)w1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18012,BS0(h')w(w),56,Seco muy c?lido,Seco y semiseco
+18013,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18014,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+18015,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18016,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18017,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18018,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+18019,Aw1(w),32,Templado subh?medo,C¿lido Subh¿medo
+18020,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+19001,BS0hw,58,Seco semic?lido,Seco y semiseco
+19002,BS0(h')hx',52,Semiseco c?lido,Seco y semiseco
+19003,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+19004,(A)Cx',32,Templado subh?medo,C¿lido Subh¿medo
+19005,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+19006,(A)Cx',22,Semic?lido subh?medo,Seco y semiseco
+19007,BS1kw,32,Templado subh?medo,Seco y semiseco
+19008,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+19009,(A)Cx',32,Templado subh?medo,C¿lido Subh¿medo
+19010,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+19011,BS1(h')hx',52,Semiseco c?lido,Seco y semiseco
+19012,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+19013,BS1(h')hw,52,Semiseco c?lido,Seco y semiseco
+19014,BS0kx',59,Seco templado,Seco y semiseco
+19015,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+19016,BS1(h')hw,52,Semiseco c?lido,Seco y semiseco
+19017,BS1kx',32,Templado subh?medo,Seco y semiseco
+19018,BWhw,63,Muy seco semic?lido,Seco y semiseco
+19019,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+19020,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+19021,BS1(h')hw,52,Semiseco c?lido,Seco y semiseco
+19022,(A)Cx',22,Semic?lido subh?medo,C¿lido Subh¿medo
+19023,BS1(h')hx',52,Semiseco c?lido,Seco y semiseco
+19024,(A)C(w0),32,Templado subh?medo,Templado subh¿medo
+19025,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+19026,(A)Cx',22,Semic?lido subh?medo,C¿lido Subh¿medo
+19027,BS0(h')hx',52,Semiseco c?lido,Seco y semiseco
+19028,BS1hw,53,Semiseco semic?lido,C¿lido Subh¿medo
+19029,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+19030,C(w0),32,Templado subh?medo,Seco y semiseco
+19031,(A)Cx',32,Templado subh?medo,C¿lido Subh¿medo
+19032,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+19033,C(w0),32,Templado subh?medo,Seco y semiseco
+19034,BS1(h')hw,52,Semiseco c?lido,Seco y semiseco
+19035,BS1(h')hx',52,Semiseco c?lido,Seco y semiseco
+19036,Cx',54,Semiseco templado,Seco y semiseco
+19037,BS1kw,54,Semiseco templado,Seco y semiseco
+19038,C(w0),32,Templado subh?medo,Seco y semiseco
+19039,BS1(h')hw,32,Templado subh?medo,Seco y semiseco
+19040,BS0(h')hx',52,Semiseco c?lido,Seco y semiseco
+19041,(A)Cx',22,Semic?lido subh?medo,C¿lido Subh¿medo
+19042,BS1(h')hx',52,Semiseco c?lido,Seco y semiseco
+19043,Cx',32,Templado subh?medo,Seco y semiseco
+19044,BS0(h')hx',53,Semiseco semic?lido,Seco y semiseco
+19045,BS1(h')hw,58,Seco semic?lido,Seco y semiseco
+19046,(A)Cx',22,Semic?lido subh?medo,Seco y semiseco
+19047,BS1kw,54,Semiseco templado,Seco y semiseco
+19048,BWhw,32,Templado subh?medo,Seco y semiseco
+19049,C(E)x',32,Templado subh?medo,Templado subh¿medo
+19050,BS0(h')hx',52,Semiseco c?lido,Seco y semiseco
+19051,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+20001,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20002,Am,11,C?lido h?medo,Calido H¿medo
+20003,Am,21,Semic?lido h?medo,Calido H¿medo
+20004,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20005,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20006,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20007,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20008,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20009,Af(m),11,C?lido h?medo,Calido H¿medo
+20010,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20011,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20012,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20013,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20014,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20015,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20016,Aw2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20017,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20018,BS0hw(w),58,Seco semic?lido,Seco y semiseco
+20019,BS0(h')w(w),32,Templado subh?medo,Seco y semiseco
+20020,C(m)(w),31,Templado h?medo,C¿lido Subh¿medo
+20021,Am,11,C?lido h?medo,Calido H¿medo
+20022,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20023,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20024,Am(w),32,Templado subh?medo,C¿lido Subh¿medo
+20025,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20026,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20027,Am(w),11,C?lido h?medo,Calido H¿medo
+20028,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20029,Af(m),11,C?lido h?medo,Calido H¿medo
+20030,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20031,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20032,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+20033,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20034,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20035,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20036,Aw2(w),32,Templado subh?medo,C¿lido Subh¿medo
+20037,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20038,C(m)(w),31,Templado h?medo,Calido H¿medo
+20039,C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20040,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+20041,C(m)(w),31,Templado h?medo,Templado h¿medo
+20042,Af(m),11,C?lido h?medo,Calido H¿medo
+20043,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20044,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+20045,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20046,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20047,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20048,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20049,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20050,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20051,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20052,Aw0(w),32,Templado subh?medo,C¿lido Subh¿medo
+20053,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20054,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20055,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20056,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20057,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+20058,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20059,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20060,C(m)(w),31,Templado h?medo,Templado h¿medo
+20061,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20062,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20063,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20064,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20065,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20066,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20067,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20068,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20069,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20070,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20071,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20072,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20073,C(m)(w),31,Templado h?medo,Templado h¿medo
+20074,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20075,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20076,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20077,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20078,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20079,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20080,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20081,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20082,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20083,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20084,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20085,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20086,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20087,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20088,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20089,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20090,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20091,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20092,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20093,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20094,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20095,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+20096,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20097,C(m)(w),31,Templado h?medo,Calido H¿medo
+20098,(A)C(fm),11,C?lido h?medo,Calido H¿medo
+20099,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20100,C(m)(w),31,Templado h?medo,Calido H¿medo
+20101,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20102,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20103,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20104,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20105,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20106,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20107,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20108,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20109,BS0(h')w(w),56,Seco muy c?lido,Seco y semiseco
+20110,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20111,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20112,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20113,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20114,C(m)(w),31,Templado h?medo,Calido H¿medo
+20115,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20116,Af(m),11,C?lido h?medo,Calido H¿medo
+20117,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20118,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20119,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20120,C(m)(w),31,Templado h?medo,Templado h¿medo
+20121,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20122,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20123,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20124,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20125,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20126,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20127,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20128,Am(w),11,C?lido h?medo,Calido H¿medo
+20129,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20130,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20131,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20132,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20133,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20134,Af(m),11,C?lido h?medo,Calido H¿medo
+20135,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20136,(A)C(fm),11,C?lido h?medo,Calido H¿medo
+20137,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20138,C(m)(w),31,Templado h?medo,Calido H¿medo
+20139,Am(w),32,Templado subh?medo,Calido H¿medo
+20140,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20141,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20142,C(m)(w),31,Templado h?medo,Templado h¿medo
+20143,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20144,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20145,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20146,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20147,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20148,A(C)m(w),21,Semic?lido h?medo,Templado subh¿medo
+20149,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20150,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20151,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20152,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20153,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20154,A(C)w0(w),32,Templado subh?medo,Seco y semiseco
+20155,C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20156,C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+20157,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20158,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20159,A(C)w1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20160,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20161,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20162,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20163,C(m)(w),31,Templado h?medo,Templado h¿medo
+20164,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20165,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20166,Am,11,C?lido h?medo,Calido H¿medo
+20167,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20168,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20169,Af(m),11,C?lido h?medo,Calido H¿medo
+20170,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20171,Af(m),11,C?lido h?medo,Calido H¿medo
+20172,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20173,C(m)(w),32,Templado subh?medo,Templado subh¿medo
+20174,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20175,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20176,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+20177,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20178,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20179,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20180,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20181,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20182,(A)C(fm),11,C?lido h?medo,Calido H¿medo
+20183,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20184,Am,11,C?lido h?medo,Calido H¿medo
+20185,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20186,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20187,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+20188,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20189,Am,11,C?lido h?medo,Calido H¿medo
+20190,Am,11,C?lido h?medo,Calido H¿medo
+20191,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20192,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20193,(A)C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+20194,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20195,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20196,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20197,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20198,Am,11,C?lido h?medo,Calido H¿medo
+20199,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20200,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20201,C(m)(w),31,Templado h?medo,Templado h¿medo
+20202,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20203,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20204,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20205,Am,11,C?lido h?medo,Calido H¿medo
+20206,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20207,Am,11,C?lido h?medo,Calido H¿medo
+20208,A(C)w0(w),32,Templado subh?medo,C¿lido Subh¿medo
+20209,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+20210,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20211,Aw2(w),12,C?lido subh?medo,Templado subh¿medo
+20212,Af(m),11,C?lido h?medo,Calido H¿medo
+20213,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20214,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20215,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20216,C(m)(w),31,Templado h?medo,Templado h¿medo
+20217,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20218,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20219,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20220,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20221,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20222,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+20223,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+20224,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20225,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20226,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20227,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20228,C(m)(w),31,Templado h?medo,Templado h¿medo
+20229,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20230,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20231,Am,21,Semic?lido h?medo,Calido H¿medo
+20232,Am,11,C?lido h?medo,Calido H¿medo
+20233,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20234,C(m)(w),32,Templado subh?medo,Templado h¿medo
+20235,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20236,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+20237,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20238,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20239,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20240,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20241,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20242,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20243,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20244,C(m)(w),32,Templado subh?medo,Seco y semiseco
+20245,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20246,Am(w),11,C?lido h?medo,Calido H¿medo
+20247,C(m)(w),31,Templado h?medo,Templado h¿medo
+20248,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20249,C(m)(w),31,Templado h?medo,Templado h¿medo
+20250,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20251,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20252,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20253,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20254,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+20255,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20256,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20257,C(m)(w),31,Templado h?medo,Calido H¿medo
+20258,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20259,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20260,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20261,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20262,C(m)(w),32,Templado subh?medo,Templado subh¿medo
+20263,Aw2(w),32,Templado subh?medo,Templado subh¿medo
+20264,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20265,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+20266,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20267,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20268,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20269,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20270,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20271,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20272,C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20273,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20274,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20275,Am,21,Semic?lido h?medo,Calido H¿medo
+20276,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20277,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20278,Am,11,C?lido h?medo,Calido H¿medo
+20279,A(C)m(w),21,Semic?lido h?medo,Templado subh¿medo
+20280,C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+20281,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20282,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20283,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20284,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20285,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20286,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20287,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20288,C(m)(w),31,Templado h?medo,Templado h¿medo
+20289,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20290,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20291,Aw2(w),32,Templado subh?medo,C¿lido Subh¿medo
+20292,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20293,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20294,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20295,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20296,C(m)(w),32,Templado subh?medo,Templado h¿medo
+20297,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20298,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20299,C(m)(w),31,Templado h?medo,Calido H¿medo
+20300,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20301,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20302,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20303,C(m)(w),31,Templado h?medo,Templado h¿medo
+20304,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20305,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20306,A(C)m(w),21,Semic?lido h?medo,Calido H¿medo
+20307,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20308,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20309,Af(m),11,C?lido h?medo,Calido H¿medo
+20310,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20311,BS0(h')w(w),56,Seco muy c?lido,Seco y semiseco
+20312,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20313,BS0(h')w(w),56,Seco muy c?lido,Seco y semiseco
+20314,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20315,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20316,A(C)w0(w),32,Templado subh?medo,Seco y semiseco
+20317,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+20318,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20319,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20320,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20321,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20322,C(m)(w),31,Templado h?medo,Templado h¿medo
+20323,Am,21,Semic?lido h?medo,Calido H¿medo
+20324,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20325,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20326,Am(w),11,C?lido h?medo,Calido H¿medo
+20327,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20328,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20329,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20330,Af(m),11,C?lido h?medo,Calido H¿medo
+20331,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20332,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20333,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+20334,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20335,C(m)(w),31,Templado h?medo,Templado h¿medo
+20336,Af(m),32,Templado subh?medo,Calido H¿medo
+20337,(A)C(w0)(w),32,Templado subh?medo,Calido H¿medo
+20338,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20339,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20340,C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20341,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20342,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20343,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20344,Aw2(w),32,Templado subh?medo,C¿lido Subh¿medo
+20345,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20346,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20347,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+20348,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20349,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20350,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20351,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20352,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20353,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20354,Af(m),11,C?lido h?medo,Calido H¿medo
+20355,Am(w),11,C?lido h?medo,Calido H¿medo
+20356,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20357,BS1(h')w(w),32,Templado subh?medo,Seco y semiseco
+20358,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20359,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20360,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20361,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20362,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20363,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20364,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20365,C(m)(w),32,Templado subh?medo,Templado h¿medo
+20366,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20367,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20368,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20369,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20370,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20371,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20372,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20373,A(C)w0(w),22,Semic?lido subh?medo,Seco y semiseco
+20374,C(m)(w),31,Templado h?medo,Templado h¿medo
+20375,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20376,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20377,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20378,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20379,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20380,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20381,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20382,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20383,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20384,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20385,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20386,A(C)w2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20387,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20388,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20389,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20390,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20391,Aw2(w),32,Templado subh?medo,Templado subh¿medo
+20392,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20393,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20394,Am,21,Semic?lido h?medo,Calido H¿medo
+20395,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20396,C(m)(w),31,Templado h?medo,Templado h¿medo
+20397,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20398,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20399,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20400,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20401,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20402,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20403,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20404,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20405,A(C)w0(w),32,Templado subh?medo,C¿lido Subh¿medo
+20406,Af(m),11,C?lido h?medo,Calido H¿medo
+20407,A(C)m,12,C?lido subh?medo,Calido H¿medo
+20408,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20409,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20410,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20411,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20412,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20413,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20414,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20415,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20416,BS0(h')w(w),56,Seco muy c?lido,Seco y semiseco
+20417,Am,11,C?lido h?medo,Calido H¿medo
+20418,Aw0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20419,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20420,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20421,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20422,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20423,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20424,Aw2(w),12,C?lido subh?medo,Templado subh¿medo
+20425,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20426,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20427,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+20428,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20429,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20430,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20431,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20432,Am(w),11,C?lido h?medo,Calido H¿medo
+20433,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20434,C(m)(w),31,Templado h?medo,Templado h¿medo
+20435,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20436,BS0(h')w(w),56,Seco muy c?lido,Seco y semiseco
+20437,C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+20438,Am(w),11,C?lido h?medo,Calido H¿medo
+20439,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20440,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20441,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20442,C(m)(w),31,Templado h?medo,Templado h¿medo
+20443,C(m)(w),31,Templado h?medo,Templado subh¿medo
+20444,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20445,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20446,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20447,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20448,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20449,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+20450,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20451,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20452,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20453,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20454,Am,31,Templado h?medo,Calido H¿medo
+20455,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20456,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20457,Af(m),11,C?lido h?medo,Calido H¿medo
+20458,Af(m),32,Templado subh?medo,Calido H¿medo
+20459,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20460,Am,11,C?lido h?medo,Calido H¿medo
+20461,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20462,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20463,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20464,BS1kw(w),54,Semiseco templado,Seco y semiseco
+20465,Am,11,C?lido h?medo,Calido H¿medo
+20466,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20467,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20468,Am,11,C?lido h?medo,Calido H¿medo
+20469,C(m)(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20470,Am,32,Templado subh?medo,C¿lido Subh¿medo
+20471,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+20472,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20473,C(m)(w),31,Templado h?medo,Templado h¿medo
+20474,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20475,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20476,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20477,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20478,BS0(h')w(w),32,Templado subh?medo,Seco y semiseco
+20479,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20480,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+20481,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20482,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20483,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20484,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20485,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20486,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+20487,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20488,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20489,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20490,C(m)(w),31,Templado h?medo,Templado h¿medo
+20491,C(m)(w),31,Templado h?medo,Templado h¿medo
+20492,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20493,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20494,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20495,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20496,C(m)(w),31,Templado h?medo,Templado h¿medo
+20497,A(C)m(w),21,Semic?lido h?medo,Templado subh¿medo
+20498,Am,11,C?lido h?medo,Calido H¿medo
+20499,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20500,C(w2)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20501,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20502,Am,11,C?lido h?medo,Calido H¿medo
+20503,C(m)(w),31,Templado h?medo,Templado h¿medo
+20504,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20505,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20506,C(m)(w),31,Templado h?medo,Templado h¿medo
+20507,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20508,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20509,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20510,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20511,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20512,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+20513,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+20514,Af(m),21,Semic?lido h?medo,Calido H¿medo
+20515,(A)C(w2)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20516,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20517,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20518,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20519,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20520,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20521,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+20522,C(m)(w),31,Templado h?medo,Templado h¿medo
+20523,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+20524,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20525,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20526,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20527,BS0(h')w(w),32,Templado subh?medo,Seco y semiseco
+20528,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20529,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20530,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20531,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20532,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20533,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20534,C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20535,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20536,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20537,Aw0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20538,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20539,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20540,A(C)w0(w),32,Templado subh?medo,C¿lido Subh¿medo
+20541,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+20542,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+20543,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20544,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20545,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+20546,C(m)(w),32,Templado subh?medo,Templado subh¿medo
+20547,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20548,BS1kw(w),54,Semiseco templado,Seco y semiseco
+20549,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20550,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20551,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20552,BS1kw(w),54,Semiseco templado,Seco y semiseco
+20553,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+20554,Af(m),21,Semic?lido h?medo,Calido H¿medo
+20555,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20556,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20557,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20558,BS0(h')w(w),56,Seco muy c?lido,Seco y semiseco
+20559,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+20560,C(m)(w),32,Templado subh?medo,Templado subh¿medo
+20561,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+20562,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20563,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+20564,A(C)w2(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20565,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20566,C(m)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+20567,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20568,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+20569,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+20570,C(m)(w),32,Templado subh?medo,Templado subh¿medo
+21001,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21002,Am(f),11,C?lido h?medo,Calido H¿medo
+21003,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21004,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21005,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21006,C(fm),31,Templado h?medo,Templado h¿medo
+21007,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21008,C(w2),31,Templado h?medo,Templado h¿medo
+21009,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21010,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21011,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+21012,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21013,BS0hw(w),58,Seco semic?lido,Seco y semiseco
+21014,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21015,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+21016,C(w2),32,Templado subh?medo,Templado subh¿medo
+21017,C(w2),31,Templado h?medo,Templado h¿medo
+21018,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21019,C(E)(w2)(w),22,Semic?lido subh?medo,Templado subh¿medo
+21020,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21021,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+21022,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21023,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21024,BS1(h')w(w),51,Semiseco muy c?lido,C¿lido Subh¿medo
+21025,Am(f),11,C?lido h?medo,Calido H¿medo
+21026,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21027,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+21028,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21029,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21030,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21031,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21032,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+21033,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21034,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21035,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+21036,BS1hw(w),32,Templado subh?medo,Calido H¿medo
+21037,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21038,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21039,C(m),31,Templado h?medo,Templado h¿medo
+21040,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+21041,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21042,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21043,Af(m),11,C?lido h?medo,Calido H¿medo
+21044,C(E)(w2),32,Templado subh?medo,Templado subh¿medo
+21045,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21046,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21047,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21048,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21049,C(fm),31,Templado h?medo,Templado h¿medo
+21050,C(m),31,Templado h?medo,Templado h¿medo
+21051,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21052,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21053,C(w2),32,Templado subh?medo,Templado subh¿medo
+21054,C(E)(w2),32,Templado subh?medo,Templado subh¿medo
+21055,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21056,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+21057,C(w2),31,Templado h?medo,Templado h¿medo
+21058,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21059,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+21060,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21061,Am,11,C?lido h?medo,Calido H¿medo
+21062,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21063,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21064,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+21065,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21066,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+21067,C(w0)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21068,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21069,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21070,C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+21071,C(fm),31,Templado h?medo,Templado h¿medo
+21072,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21073,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+21074,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21075,C(fm),31,Templado h?medo,Templado h¿medo
+21076,Am(f),11,C?lido h?medo,Calido H¿medo
+21077,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21078,C(fm),31,Templado h?medo,Templado h¿medo
+21079,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21080,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21081,BS1(h')w(w),51,Semiseco muy c?lido,C¿lido Subh¿medo
+21082,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21083,C(w2),32,Templado subh?medo,Templado subh¿medo
+21084,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21085,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21086,Am(f),11,C?lido h?medo,Calido H¿medo
+21087,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+21088,Af(m),11,C?lido h?medo,Calido H¿medo
+21089,Af(m),11,C?lido h?medo,Calido H¿medo
+21090,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21091,C(fm),31,Templado h?medo,Templado h¿medo
+21092,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+21093,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21094,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21095,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21096,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21097,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21098,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21099,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21100,C(fm),31,Templado h?medo,Templado h¿medo
+21101,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21102,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21103,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21104,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21105,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21106,A(C)w0(w),32,Templado subh?medo,Templado subh¿medo
+21107,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21108,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21109,C(fm),31,Templado h?medo,Templado h¿medo
+21110,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21111,Am(f),11,C?lido h?medo,Calido H¿medo
+21112,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21113,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+21114,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21115,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21116,C(E)(w2)(w),31,Templado h?medo,Templado h¿medo
+21117,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21118,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21119,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21120,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21121,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21122,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21123,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21124,BS0hw(w),58,Seco semic?lido,Seco y semiseco
+21125,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21126,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21127,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21128,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21129,BS0hw(w),58,Seco semic?lido,Seco y semiseco
+21130,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21131,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21132,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+21133,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21134,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21135,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21136,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21137,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21138,E(T)H,70,Fr?o,Templado subh¿medo
+21139,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+21140,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21141,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21142,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21143,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21144,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21145,Am,11,C?lido h?medo,Calido H¿medo
+21146,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21147,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21148,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+21149,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21150,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21151,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21152,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21153,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21154,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21155,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21156,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+21157,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21158,Am(f),11,C?lido h?medo,Calido H¿medo
+21159,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21160,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+21161,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21162,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21163,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21164,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21165,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21166,A(C)w1(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21167,C(fm),31,Templado h?medo,Templado h¿medo
+21168,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21169,C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+21170,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21171,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21172,C(w2),32,Templado subh?medo,Templado subh¿medo
+21173,C(m),31,Templado h?medo,Templado h¿medo
+21174,C(m),31,Templado h?medo,Templado h¿medo
+21175,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21176,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21177,C(w1)(w),32,Templado subh?medo,Seco y semiseco
+21178,C(fm),31,Templado h?medo,Calido H¿medo
+21179,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21180,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21181,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+21182,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21183,C(fm),31,Templado h?medo,Templado h¿medo
+21184,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21185,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21186,C(E)(w2),32,Templado subh?medo,Templado subh¿medo
+21187,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21188,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+21189,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21190,C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+21191,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21192,Af(m),11,C?lido h?medo,Calido H¿medo
+21193,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21194,Aw2,11,C?lido h?medo,Calido H¿medo
+21195,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21196,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21197,C(fm),11,C?lido h?medo,Calido H¿medo
+21198,BS1(h')w(w),51,Semiseco muy c?lido,Seco y semiseco
+21199,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+21200,C(m),31,Templado h?medo,Templado h¿medo
+21201,A(C)w0(w),22,Semic?lido subh?medo,C¿lido Subh¿medo
+21202,C(m),31,Templado h?medo,Templado h¿medo
+21203,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21204,C(m),31,Templado h?medo,Templado h¿medo
+21205,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21206,C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+21207,C(w2),32,Templado subh?medo,Templado subh¿medo
+21208,C(w2),32,Templado subh?medo,Templado subh¿medo
+21209,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+21210,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+21211,C(w2),32,Templado subh?medo,Templado subh¿medo
+21212,C(w2),32,Templado subh?medo,Templado subh¿medo
+21213,Am(f),11,C?lido h?medo,Calido H¿medo
+21214,BS1hw(w),53,Semiseco semic?lido,Seco y semiseco
+21215,C(fm),31,Templado h?medo,Templado h¿medo
+21216,Af(m),11,C?lido h?medo,Calido H¿medo
+21217,BS1hw(w),32,Templado subh?medo,Seco y semiseco
+22001,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+22002,C(w2),32,Templado subh?medo,C¿lido Subh¿medo
+22003,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+22004,BS1hw,32,Templado subh?medo,Seco y semiseco
+22005,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+22006,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+22007,BS1kw(w),54,Semiseco templado,Seco y semiseco
+22008,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+22009,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+22010,(A)C(w2)(w),32,Templado subh?medo,C¿lido Subh¿medo
+22011,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+22012,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+22013,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+22014,BS1kw(w),54,Semiseco templado,Seco y semiseco
+22015,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+22016,BS1kw(w),32,Templado subh?medo,Seco y semiseco
+22017,BS1kw(w),54,Semiseco templado,Seco y semiseco
+22018,BS1kw(w),54,Semiseco templado,Seco y semiseco
+23001,Am(f),11,C?lido h?medo,Calido H¿medo
+23002,Aw2(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+23003,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+23004,Aw2(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+23005,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+23006,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+23007,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+23008,Aw1(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+23009,Aw2(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+23010,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+23011,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+24001,BS1kw,54,Semiseco templado,Seco y semiseco
+24002,BS1hw,32,Templado subh?medo,Seco y semiseco
+24003,(A)C(m)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+24004,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+24005,BS1hw,32,Templado subh?medo,Seco y semiseco
+24006,BS0hx',59,Seco templado,Seco y semiseco
+24007,BS0kw(x'),59,Seco templado,Seco y semiseco
+24008,BS0hw,58,Seco semic?lido,Seco y semiseco
+24009,BS1kw,54,Semiseco templado,Seco y semiseco
+24010,C(m)(w),32,Templado subh?medo,Seco y semiseco
+24011,BS1hw,32,Templado subh?medo,Seco y semiseco
+24012,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24013,(A)C(w1)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+24014,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24015,BS1kw,54,Semiseco templado,Seco y semiseco
+24016,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+24017,BS0kw(x'),32,Templado subh?medo,Seco y semiseco
+24018,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24019,BS1hw,32,Templado subh?medo,C¿lido Subh¿medo
+24020,BS0kw(x'),59,Seco templado,Seco y semiseco
+24021,BS1kw,54,Semiseco templado,Seco y semiseco
+24022,BS1kw,54,Semiseco templado,Seco y semiseco
+24023,BS1hw,32,Templado subh?medo,C¿lido Subh¿medo
+24024,BS1hw,32,Templado subh?medo,Seco y semiseco
+24025,BS1kw,54,Semiseco templado,Seco y semiseco
+24026,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24027,BS1hw,32,Templado subh?medo,C¿lido Subh¿medo
+24028,BS1kw,54,Semiseco templado,Seco y semiseco
+24029,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24030,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+24031,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+24032,BS1kw,54,Semiseco templado,Seco y semiseco
+24033,BS1kw,54,Semiseco templado,Seco y semiseco
+24034,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+24035,BWkw,64,Muy seco templado,Seco y semiseco
+24036,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+24037,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24038,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24039,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24040,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+24041,(A)C(m)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+24042,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24043,BS1kw,54,Semiseco templado,Seco y semiseco
+24044,BS1kx',54,Semiseco templado,Seco y semiseco
+24045,BS1kw,54,Semiseco templado,Seco y semiseco
+24046,BS1kw,54,Semiseco templado,Seco y semiseco
+24047,BS0kw(x'),59,Seco templado,Seco y semiseco
+24048,BS0kw(x'),59,Seco templado,Seco y semiseco
+24049,BS1kw,54,Semiseco templado,Seco y semiseco
+24050,BS1kw,54,Semiseco templado,Seco y semiseco
+24051,BS0kw(x'),59,Seco templado,Seco y semiseco
+24052,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+24053,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24054,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24055,BS1hw,53,Semiseco semic?lido,Seco y semiseco
+24056,BS0kw,59,Seco templado,Seco y semiseco
+24057,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+24058,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+25001,BW(h')hw,62,Muy seco c?lido,Muy seco o seco desertico
+25002,BS0(h')hw,57,Seco c?lido,Seco y semiseco
+25003,(A)C(w1),32,Templado subh?medo,C¿lido Subh¿medo
+25004,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+25005,BS1(h')hw,12,C?lido subh?medo,C¿lido Subh¿medo
+25006,BS0(h')hw,12,C?lido subh?medo,C¿lido Subh¿medo
+25007,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+25008,BS1(h')hw,52,Semiseco c?lido,Seco y semiseco
+25009,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+25010,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+25011,BW(h')hw,62,Muy seco c?lido,Muy seco o seco desertico
+25012,BS1(h')hw,12,C?lido subh?medo,C¿lido Subh¿medo
+25013,BS1(h')hw,32,Templado subh?medo,C¿lido Subh¿medo
+25014,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+25015,BS1(h')hw,52,Semiseco c?lido,Seco y semiseco
+25016,(A)C(w2),12,C?lido subh?medo,C¿lido Subh¿medo
+25017,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+25018,BS0(h')hw,57,Seco c?lido,Seco y semiseco
+26001,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26002,BS0kw(x'),59,Seco templado,Seco y semiseco
+26003,BS1hw,32,Templado subh?medo,Seco y semiseco
+26004,BS0kw(x'),59,Seco templado,Seco y semiseco
+26005,C(w0)(x'),32,Templado subh?medo,Templado subh¿medo
+26006,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26007,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26008,C(w0)(x'),32,Templado subh?medo,Seco y semiseco
+26009,C(w0)(x'),32,Templado subh?medo,Templado subh¿medo
+26010,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26011,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26012,BS0hw,58,Seco semic?lido,Seco y semiseco
+26013,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26014,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26015,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26016,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26017,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26018,BS0hw,58,Seco semic?lido,Seco y semiseco
+26019,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26020,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26021,BS1hw(x'),62,Muy seco c?lido,Seco y semiseco
+26022,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26023,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26024,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26025,BWhw,63,Muy seco semic?lido,Muy seco o seco desertico
+26026,BW(h')hw,62,Muy seco c?lido,Muy seco o seco desertico
+26027,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26028,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26029,BW(h')hw,62,Muy seco c?lido,Muy seco o seco desertico
+26030,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26031,C(w0)(x'),32,Templado subh?medo,Templado subh¿medo
+26032,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26033,BW(h')hw,62,Muy seco c?lido,Muy seco o seco desertico
+26034,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26035,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26036,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26037,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26038,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26039,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26040,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26041,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26042,BS1(h')hw,52,Semiseco c?lido,Seco y semiseco
+26043,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26044,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26045,BWhw(x'),63,Muy seco semic?lido,Seco y semiseco
+26046,BWhw(x'),63,Muy seco semic?lido,Seco y semiseco
+26047,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26048,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26049,BS1hw,32,Templado subh?medo,Seco y semiseco
+26050,BWhw(x'),63,Muy seco semic?lido,Seco y semiseco
+26051,C(w0)(x'),32,Templado subh?medo,Seco y semiseco
+26052,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26053,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26054,BS1hw(x'),53,Semiseco semic?lido,Seco y semiseco
+26055,BW(h')hw(x'),62,Muy seco c?lido,Muy seco o seco desertico
+26056,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26057,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26058,BWhw(x'),63,Muy seco semic?lido,Seco y semiseco
+26059,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26060,BS0hw(x'),58,Seco semic?lido,Seco y semiseco
+26061,(A)C(w0)(x'),32,Templado subh?medo,Seco y semiseco
+26062,BS1hw(x'),57,Seco c?lido,Seco y semiseco
+26063,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26064,BS0kw(x'),59,Seco templado,Seco y semiseco
+26065,BWhw(x'),63,Muy seco semic?lido,Seco y semiseco
+26066,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26067,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26068,BS1kw(x'),54,Semiseco templado,Seco y semiseco
+26069,C(w1)(x'),32,Templado subh?medo,Templado subh¿medo
+26070,BWhw(x'),63,Muy seco semic?lido,Muy seco o seco desertico
+26071,BW(h')hw,62,Muy seco c?lido,Muy seco o seco desertico
+26072,BW(h')hw,62,Muy seco c?lido,Muy seco o seco desertico
+27001,Am(f),11,C?lido h?medo,Calido H¿medo
+27002,Am(f),11,C?lido h?medo,Calido H¿medo
+27003,Am(f),11,C?lido h?medo,Calido H¿medo
+27004,Am(f),11,C?lido h?medo,Calido H¿medo
+27005,Am(f),11,C?lido h?medo,Calido H¿medo
+27006,Am(f),11,C?lido h?medo,Calido H¿medo
+27007,Am(f),11,C?lido h?medo,Calido H¿medo
+27008,Am,11,C?lido h?medo,Calido H¿medo
+27009,Am(f),11,C?lido h?medo,Calido H¿medo
+27010,Am(f),11,C?lido h?medo,Calido H¿medo
+27011,Am(f),11,C?lido h?medo,Calido H¿medo
+27012,Am(f),11,C?lido h?medo,Calido H¿medo
+27013,Am(f),11,C?lido h?medo,Calido H¿medo
+27014,Am(f),11,C?lido h?medo,Calido H¿medo
+27015,Af(m),11,C?lido h?medo,Calido H¿medo
+27016,Af(m),11,C?lido h?medo,Calido H¿medo
+27017,Am(f),11,C?lido h?medo,Calido H¿medo
+28001,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28002,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28003,(A)C(w0),12,C?lido subh?medo,C¿lido Subh¿medo
+28004,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+28005,(A)Cx',22,Semic?lido subh?medo,C¿lido Subh¿medo
+28006,C(w0),32,Templado subh?medo,Seco y semiseco
+28007,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+28008,BS1(h')hw,32,Templado subh?medo,C¿lido Subh¿medo
+28009,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+28010,(A)Cx',22,Semic?lido subh?medo,C¿lido Subh¿medo
+28011,Aw0,32,Templado subh?medo,C¿lido Subh¿medo
+28012,(A)C(w1),32,Templado subh?medo,C¿lido Subh¿medo
+28013,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28014,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+28015,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+28016,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28017,(A)C(w0),32,Templado subh?medo,Seco y semiseco
+28018,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28019,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28020,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28021,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+28022,(A)Cx',22,Semic?lido subh?medo,C¿lido Subh¿medo
+28023,(A)Cx',22,Semic?lido subh?medo,C¿lido Subh¿medo
+28024,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+28025,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+28026,(A)C(w0),32,Templado subh?medo,Seco y semiseco
+28027,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+28028,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+28029,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28030,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28031,BS1kw,32,Templado subh?medo,Seco y semiseco
+28032,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+28033,BS0(h')hx',57,Seco c?lido,Seco y semiseco
+28034,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28035,(A)Cx',22,Semic?lido subh?medo,C¿lido Subh¿medo
+28036,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28037,BS1(h')hw,52,Semiseco c?lido,Seco y semiseco
+28038,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+28039,C(w0),32,Templado subh?medo,Seco y semiseco
+28040,BS1(h')hx',52,Semiseco c?lido,Seco y semiseco
+28041,(A)C(w0),32,Templado subh?medo,Seco y semiseco
+28042,(A)C(w0),32,Templado subh?medo,C¿lido Subh¿medo
+28043,BS1(h')hw,12,C?lido subh?medo,C¿lido Subh¿medo
+29001,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29002,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29003,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29004,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+29005,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29006,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29007,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+29008,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+29009,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29010,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29011,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29012,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29013,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+29014,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+29015,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29016,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+29017,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29018,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29019,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29020,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+29021,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29022,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29023,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29024,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29025,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29026,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29027,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29028,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29029,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29030,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+29031,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29032,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29033,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29034,C(E)(w2),32,Templado subh?medo,Templado subh¿medo
+29035,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29036,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29037,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+29038,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29039,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29040,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29041,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29042,C(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29043,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29044,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29045,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+29046,C(w2),32,Templado subh?medo,Templado subh¿medo
+29047,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29048,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29049,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29050,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29051,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29052,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+29053,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29054,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29055,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29056,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29057,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29058,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29059,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+29060,C(w1)(w),32,Templado subh?medo,Templado subh¿medo
+30001,C(E)(m),70,Fr?o,Templado subh¿medo
+30002,C(m),31,Templado h?medo,Templado h¿medo
+30003,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30004,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30005,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30006,C(E)(w2)(w),32,Templado subh?medo,Templado subh¿medo
+30007,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30008,C(m),31,Templado h?medo,Templado h¿medo
+30009,C(m),21,Semic?lido h?medo,Calido H¿medo
+30010,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+30011,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30012,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30013,Am,11,C?lido h?medo,Calido H¿medo
+30014,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30015,Am,11,C?lido h?medo,Calido H¿medo
+30016,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30017,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30018,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+30019,C(m)(w),31,Templado h?medo,Templado h¿medo
+30020,C(m)(w),31,Templado h?medo,Templado h¿medo
+30021,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30022,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30023,Af(m),11,C?lido h?medo,Calido H¿medo
+30024,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30025,BS1k'w,42,Semifr?o subh?medo,Templado subh¿medo
+30026,C(fm),31,Templado h?medo,Templado h¿medo
+30027,Am(f),11,C?lido h?medo,Calido H¿medo
+30028,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30029,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+30030,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30031,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30032,Am,11,C?lido h?medo,Calido H¿medo
+30033,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30034,Am,11,C?lido h?medo,Calido H¿medo
+30035,Am,11,C?lido h?medo,Calido H¿medo
+30036,C(fm),31,Templado h?medo,Templado h¿medo
+30037,Af(m),11,C?lido h?medo,Calido H¿medo
+30038,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30039,Am(f),11,C?lido h?medo,Calido H¿medo
+30040,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30041,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30042,Am(f),11,C?lido h?medo,Calido H¿medo
+30043,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30044,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30045,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30046,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30047,C(m),31,Templado h?medo,Templado h¿medo
+30048,Am,11,C?lido h?medo,Calido H¿medo
+30049,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30050,Am(f),11,C?lido h?medo,Calido H¿medo
+30051,Am(f),11,C?lido h?medo,Calido H¿medo
+30052,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30053,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+30054,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30055,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+30056,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+30057,C(m),21,Semic?lido h?medo,Calido H¿medo
+30058,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+30059,Am,11,C?lido h?medo,Calido H¿medo
+30060,Am,11,C?lido h?medo,Calido H¿medo
+30061,Am,11,C?lido h?medo,Calido H¿medo
+30062,C(m),31,Templado h?medo,Templado h¿medo
+30063,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+30064,Am(f),11,C?lido h?medo,Calido H¿medo
+30065,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30066,Aw2,11,C?lido h?medo,Calido H¿medo
+30067,Af(m),11,C?lido h?medo,Calido H¿medo
+30068,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30069,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30070,Am,11,C?lido h?medo,Calido H¿medo
+30071,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30072,C(fm),32,Templado subh?medo,Templado h¿medo
+30073,Am,11,C?lido h?medo,Calido H¿medo
+30074,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30075,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30076,C(fm),31,Templado h?medo,Templado h¿medo
+30077,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30078,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+30079,C(E)(w2)(w),31,Templado h?medo,Templado h¿medo
+30080,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30081,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30082,Am,11,C?lido h?medo,Calido H¿medo
+30083,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+30084,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30085,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30086,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+30087,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30088,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30089,Am,11,C?lido h?medo,Calido H¿medo
+30090,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30091,Am,11,C?lido h?medo,Calido H¿medo
+30092,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30093,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30094,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30095,C(m),11,C?lido h?medo,Calido H¿medo
+30096,C(m),31,Templado h?medo,Templado h¿medo
+30097,Am,11,C?lido h?medo,Calido H¿medo
+30098,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30099,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+30100,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30101,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30102,Am(f),11,C?lido h?medo,Calido H¿medo
+30103,Af(m),11,C?lido h?medo,Calido H¿medo
+30104,Am,11,C?lido h?medo,Calido H¿medo
+30105,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30106,(A)C(fm),21,Semic?lido h?medo,Calido H¿medo
+30107,C(w2),31,Templado h?medo,Templado h¿medo
+30108,Am,11,C?lido h?medo,Calido H¿medo
+30109,Am(f),11,C?lido h?medo,Calido H¿medo
+30110,Am,11,C?lido h?medo,Calido H¿medo
+30111,Am,11,C?lido h?medo,Calido H¿medo
+30112,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30113,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30114,Am(f),11,C?lido h?medo,Calido H¿medo
+30115,(A)C(m),31,Templado h?medo,Templado h¿medo
+30116,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30117,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30118,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30119,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30120,Am,11,C?lido h?medo,Calido H¿medo
+30121,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30122,Am,11,C?lido h?medo,Calido H¿medo
+30123,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+30124,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30125,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30126,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30127,C(E)(w2)(w),42,Semifr?o subh?medo,Templado subh¿medo
+30128,C(w0)(w),32,Templado subh?medo,Templado subh¿medo
+30129,(A)C(m)(w),21,Semic?lido h?medo,Calido H¿medo
+30130,Am,11,C?lido h?medo,Calido H¿medo
+30131,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+30132,C(E)(m),31,Templado h?medo,Templado subh¿medo
+30133,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+30134,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30135,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30136,C(fm),31,Templado h?medo,Templado h¿medo
+30137,C(m)(w),31,Templado h?medo,Templado h¿medo
+30138,(A)C(m),31,Templado h?medo,Templado h¿medo
+30139,Am,11,C?lido h?medo,Calido H¿medo
+30140,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30141,Am,11,C?lido h?medo,Calido H¿medo
+30142,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+30143,Am,11,C?lido h?medo,Calido H¿medo
+30144,Am,11,C?lido h?medo,Calido H¿medo
+30145,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30146,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30147,(A)C(m),32,Templado subh?medo,Templado subh¿medo
+30148,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30149,Am,11,C?lido h?medo,Calido H¿medo
+30150,Am,11,C?lido h?medo,Calido H¿medo
+30151,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30152,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30153,Am,11,C?lido h?medo,Calido H¿medo
+30154,Am,11,C?lido h?medo,Calido H¿medo
+30155,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+30156,C(m),31,Templado h?medo,Templado h¿medo
+30157,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30158,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30159,C(m)(w),31,Templado h?medo,Templado h¿medo
+30160,Am,11,C?lido h?medo,Calido H¿medo
+30161,(A)C(m)(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30162,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30163,C(fm),31,Templado h?medo,Templado h¿medo
+30164,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30165,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30166,C(m),21,Semic?lido h?medo,Calido H¿medo
+30167,Am,11,C?lido h?medo,Calido H¿medo
+30168,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30169,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+30170,C(fm),31,Templado h?medo,Templado h¿medo
+30171,C(m)(w),31,Templado h?medo,Templado h¿medo
+30172,Am,11,C?lido h?medo,Calido H¿medo
+30173,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30174,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30175,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30176,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30177,C(fm),31,Templado h?medo,Templado h¿medo
+30178,Am,12,C?lido subh?medo,C¿lido Subh¿medo
+30179,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30180,C(fm),31,Templado h?medo,Calido H¿medo
+30181,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30182,C(fm),31,Templado h?medo,Templado h¿medo
+30183,Am(f),11,C?lido h?medo,Calido H¿medo
+30184,C(m)(w),31,Templado h?medo,Templado h¿medo
+30185,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30186,C(m),31,Templado h?medo,Templado h¿medo
+30187,C(fm),31,Templado h?medo,Templado h¿medo
+30188,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30189,Aw2,12,C?lido subh?medo,C¿lido Subh¿medo
+30190,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30191,Aw1(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30192,Am(f),11,C?lido h?medo,Calido H¿medo
+30193,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30194,C(w2),32,Templado subh?medo,Templado subh¿medo
+30195,C(m)(w),31,Templado h?medo,Templado h¿medo
+30196,Am,11,C?lido h?medo,Calido H¿medo
+30197,Af(m),11,C?lido h?medo,Calido H¿medo
+30198,C(fm),31,Templado h?medo,Templado h¿medo
+30199,Am,11,C?lido h?medo,Calido H¿medo
+30200,(A)C(m),12,C?lido subh?medo,C¿lido Subh¿medo
+30201,(A)C(m),21,Semic?lido h?medo,Calido H¿medo
+30202,C(fm),31,Templado h?medo,Calido H¿medo
+30203,Af(m),11,C?lido h?medo,Calido H¿medo
+30204,Am(f),11,C?lido h?medo,Calido H¿medo
+30205,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+30206,Am(f),11,C?lido h?medo,Calido H¿medo
+30207,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30208,Aw2(w),12,C?lido subh?medo,C¿lido Subh¿medo
+30209,A(C)f(m),11,C?lido h?medo,Calido H¿medo
+30210,Am(f),11,C?lido h?medo,Calido H¿medo
+30211,Am(f),11,C?lido h?medo,Calido H¿medo
+30212,Am,11,C?lido h?medo,Calido H¿medo
+31001,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31002,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31003,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31004,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31005,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31006,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31007,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31008,Aw1(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31009,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31010,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31011,Aw0(w),12,C?lido subh?medo,C¿lido Subh¿medo
+31012,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31013,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31014,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+31015,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31016,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31017,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+31018,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31019,Aw1(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31020,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31021,Aw1(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31022,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+31023,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31024,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31025,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31026,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31027,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31028,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31029,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31030,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31031,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31032,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31033,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31034,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31035,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31036,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31037,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31038,BS0(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31039,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31040,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31041,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31042,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31043,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+31044,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31045,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31046,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31047,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31048,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31049,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31050,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31051,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31052,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31053,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31054,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31055,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31056,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31057,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31058,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31059,BS0(h')w(x'),56,Seco muy c?lido,Calido H¿medo
+31060,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31061,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31062,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31063,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31064,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31065,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31066,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31067,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31068,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31069,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31070,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31071,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31072,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31073,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31074,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31075,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31076,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31077,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31078,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31079,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31080,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31081,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+31082,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31083,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31084,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31085,Aw1(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31086,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31087,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31088,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31089,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31090,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31091,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31092,Aw1(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31093,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31094,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31095,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31096,Aw0(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31097,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31098,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31099,Aw1,12,C?lido subh?medo,C¿lido Subh¿medo
+31100,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+31101,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31102,Aw1(x'),12,C?lido subh?medo,C¿lido Subh¿medo
+31103,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31104,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31105,Aw0,12,C?lido subh?medo,C¿lido Subh¿medo
+31106,BS1(h')w(x'),51,Semiseco muy c?lido,Calido H¿medo
+32001,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32002,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+32003,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32004,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32005,BS1kw,54,Semiseco templado,Seco y semiseco
+32006,BS1kw,54,Semiseco templado,Seco y semiseco
+32007,BS1kx',54,Semiseco templado,Seco y semiseco
+32008,BS1kw,54,Semiseco templado,Seco y semiseco
+32009,BS1kw,54,Semiseco templado,Seco y semiseco
+32010,BS1kw,54,Semiseco templado,Seco y semiseco
+32011,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32012,BS1kw,32,Templado subh?medo,Seco y semiseco
+32013,BS1kw,54,Semiseco templado,Seco y semiseco
+32014,BS0kw,59,Seco templado,Seco y semiseco
+32015,BS1kw,53,Semiseco semic?lido,Seco y semiseco
+32016,BS1kw,54,Semiseco templado,Seco y semiseco
+32017,BS1kw,54,Semiseco templado,Seco y semiseco
+32018,C(w0)(w),32,Templado subh?medo,Seco y semiseco
+32019,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32020,BS1kw,32,Templado subh?medo,Seco y semiseco
+32021,C(w0),32,Templado subh?medo,Seco y semiseco
+32022,BS1kw,54,Semiseco templado,Seco y semiseco
+32023,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32024,BS1kw,54,Semiseco templado,Seco y semiseco
+32025,BS1kw,54,Semiseco templado,Seco y semiseco
+32026,C(E)x',59,Seco templado,Seco y semiseco
+32027,BS0hw,58,Seco semic?lido,Seco y semiseco
+32028,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32029,BS1kw,54,Semiseco templado,Seco y semiseco
+32030,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32031,(A)C(w0)(w),32,Templado subh?medo,Seco y semiseco
+32032,BS1kw,54,Semiseco templado,Seco y semiseco
+32033,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32034,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32035,BS1kw,54,Semiseco templado,Seco y semiseco
+32036,BS1kw,54,Semiseco templado,Seco y semiseco
+32037,BS1kw,54,Semiseco templado,Seco y semiseco
+32038,BS1kw,54,Semiseco templado,Seco y semiseco
+32039,BS0kw,59,Seco templado,Seco y semiseco
+32040,BS1kw,54,Semiseco templado,Seco y semiseco
+32041,BS1kx',59,Seco templado,Seco y semiseco
+32042,C(w0),32,Templado subh?medo,Seco y semiseco
+32043,BS1kw,32,Templado subh?medo,Seco y semiseco
+32044,BS1kw,53,Semiseco semic?lido,Seco y semiseco
+32045,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32046,BS1kw,32,Templado subh?medo,Seco y semiseco
+32047,(A)C(w1)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32048,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
+32049,C(w1),32,Templado subh?medo,Seco y semiseco
+32050,BS1kw,54,Semiseco templado,Seco y semiseco
+32051,BS0hw,58,Seco semic?lido,Seco y semiseco
+32052,BS1kw,54,Semiseco templado,Seco y semiseco
+32053,BS1kw,54,Semiseco templado,Seco y semiseco
+32054,BS1kw,54,Semiseco templado,Seco y semiseco
+32055,BS1kw,32,Templado subh?medo,Seco y semiseco
+32056,BS1kw,54,Semiseco templado,Seco y semiseco
+32057,BS1kw,54,Semiseco templado,Seco y semiseco
+32058,(A)C(w0)(w),32,Templado subh?medo,C¿lido Subh¿medo
