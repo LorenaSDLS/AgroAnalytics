@@ -1,0 +1,491 @@
+Idcultivo,Nomcultivo,Idunidadmedida,Nomunidad
+1000000,Viveros de manzana,200206,Planta
+1200000,Viveros de nuez,200206,Planta
+1400000,Palo de arco,200201,Tonelada
+1500000,Semilla de garbanzo grano,200201,Tonelada
+1501000,Semilla de garbanzo porquero,200201,Tonelada
+1503000,Quinoa,200201,Tonelada
+1504000,Dalia,200206,Planta
+1504000,Dalia ,200206,Planta
+1504000,Dalia (planta),200206,Planta
+1508000,Flor lisianthus,200203,Gruesa
+1509000,Flor hawaiana,200203,Gruesa
+1510000,Semilla de cacahuate,200201,Tonelada
+5000000,Aceituna,200201,Tonelada
+5010000,Acelga,200201,Tonelada
+5020000,Achiote,200201,Tonelada
+5040000,Agapando,200203,Gruesa
+5040000,Agapando (gruesa),200203,Gruesa
+5050000,Agave,200201,Tonelada
+5060000,Aguacate,200201,Tonelada
+5070000,Ajo,200201,Tonelada
+5080000,Ajonjolí,200201,Tonelada
+5110000,Albahaca,200201,Tonelada
+5120000,Albricia,200201,Tonelada
+5130000,Alcachofa,200201,Tonelada
+5150000,Alcatraz,200203,Gruesa
+5150000,Alcatraz (gruesa),200203,Gruesa
+5160000,Alfalfa achicalada,200201,Tonelada
+5160000,Alfalfa,200201,Tonelada
+5170000,Alfalfa,200201,Tonelada
+5170000,Alfalfa verde,200201,Tonelada
+5180000,Algarrobo,200201,Tonelada
+5190000,Algodón hueso,200201,Tonelada
+5220000,Alhelí,200205,Manojo
+5220000,Alhelí,200203,Gruesa
+5220000,Alhelí,200201,Tonelada
+5230000,Alhelí,200203,Gruesa
+5230000,Alhelí (gruesa),200203,Gruesa
+5240000,Alhelí (manojo),200205,Manojo
+5240000,Alhelí,200205,Manojo
+5250000,Almácigo,200206,Planta
+5270000,Alpiste,200201,Tonelada
+5270000,Alpiste grano,200201,Tonelada
+5271000,Alpiste ornamental,200205,Manojo
+5320000,Alpiste verde,200201,Tonelada
+5320000,Alpiste forrajero verde,200201,Tonelada
+5330000,Alstroemeria (gruesa),200203,Gruesa
+5330000,Alstroemeria ,200203,Gruesa
+5330000,Alstroemeria,200203,Gruesa
+5340000,Amaranto,200201,Tonelada
+5350000,Anís,200201,Tonelada
+5365000,Anturios (gruesa),200203,Gruesa
+5365000,Anturios ,200203,Gruesa
+5365000,Anturios,200203,Gruesa
+5370000,Apio,200201,Tonelada
+5380000,Semilla de apio,200201,Tonelada
+5390000,Árbol de navidad,200206,Planta
+5390000,Árbol de navidad ,200206,Planta
+5390000,Árbol de navidad (planta),200206,Planta
+5395000,Aretillo ,200206,Planta
+5395000,Aretillo (planta),200206,Planta
+5395000,Aretillo,200206,Planta
+5400000,Arrayán,200201,Tonelada
+5410000,Arroz palay,200201,Tonelada
+5430000,Arvejón,200201,Tonelada
+5450000,Aster (manojo),200205,Manojo
+5450000,Aster,200205,Manojo
+5450000,Aster ,200205,Manojo
+5460000,Ave del paraíso,200203,Gruesa
+5460000,Ave del paraíso,200201,Tonelada
+5470000,Ave del paraíso (gruesa),200203,Gruesa
+5470000,Ave del paraíso,200203,Gruesa
+5480000,Avena forrajera achicalada,200201,Tonelada
+5480000,Avena forrajera en verde,200201,Tonelada
+5490000,Avena forrajera en verde,200201,Tonelada
+5500000,Avena forrajera en verde,200201,Tonelada
+5510000,Avena grano,200201,Tonelada
+5520000,Semilla de avena grano,200201,Tonelada
+5550000,Azucena,200203,Gruesa
+5560000,Baby back choi,200201,Tonelada
+5570000,Bangaña,200201,Tonelada
+5600000,Begonia,200206,Planta
+5600000,Begonia (planta),200206,Planta
+5605000,Belén (planta),200206,Planta
+5605000,Belén ,200206,Planta
+5605000,Belén,200206,Planta
+5610000,Berenjena,200201,Tonelada
+5620000,Semilla de berenjena,200201,Tonelada
+5640000,Betabel,200201,Tonelada
+5650000,Arándano,200201,Tonelada
+5660000,Boi choi,200201,Tonelada
+5670000,Brócoli,200201,Tonelada
+5680000,Semilla de brócoli,200201,Tonelada
+5690000,Cacahuate,200201,Tonelada
+5700000,Cacao,200201,Tonelada
+5710000,Café cereza,200201,Tonelada
+5730000,Caimito,200201,Tonelada
+5740000,Calabacita,200201,Tonelada
+5750000,Semilla de calabacita,200201,Tonelada
+5760000,Calabaza,200201,Tonelada
+5770000,Calabaza semilla o chihua,200201,Tonelada
+5780000,Calancoe ,200206,Planta
+5780000,Calancoe (planta),200206,Planta
+5780000,Calancoe,200206,Planta
+5790000,Camote,200201,Tonelada
+5810000,Canola,200201,Tonelada
+5811000,Canola forrajera,200201,Tonelada
+5812000,Semilla de canola,200201,Tonelada
+5820000,Caña de azúcar,200201,Tonelada
+5821000,Caña de azúcar otro uso,200201,Tonelada
+5821000,Caña de azúcar fruta,200201,Tonelada
+5822000,Caña de azúcar piloncillo,200201,Tonelada
+5822000,Caña de azúcar otro uso,200201,Tonelada
+5823000,Caña de azúcar otro uso,200201,Tonelada
+5823000,Caña de azúcar forrajera,200201,Tonelada
+5830000,Semilla de caña de azúcar,200201,Tonelada
+5840000,Capulín,200201,Tonelada
+5850000,Carambolo,200201,Tonelada
+5870000,Cártamo,200201,Tonelada
+5875000,Cártamo forrajero en verde,200201,Tonelada
+5890000,Cebada forrajera achicalada,200201,Tonelada
+5890000,Cebada forrajera en verde,200201,Tonelada
+5900000,Cebada forrajera en verde,200201,Tonelada
+5920000,Cebada grano,200201,Tonelada
+5930000,Semilla de cebada grano,200201,Tonelada
+5940000,Cebolla,200201,Tonelada
+5980000,Centeno forrajero en verde,200201,Tonelada
+6000000,Centeno grano,200201,Tonelada
+6010000,Cereza,200201,Tonelada
+6020000,Chabacano,200201,Tonelada
+6040000,Chay,200201,Tonelada
+6050000,Chayote,200201,Tonelada
+6060000,Chía,200201,Tonelada
+6070000,Chícharo,200201,Tonelada
+6090000,Chilacayote,200201,Tonelada
+6110000,Chile verde,200201,Tonelada
+6110000,Chile seco,200201,Tonelada
+6120000,Chile verde,200201,Tonelada
+6160000,Chirimoya,200201,Tonelada
+6170000,Chives,200201,Tonelada
+6180000,Choi sum,200201,Tonelada
+6190000,Cilantro,200201,Tonelada
+6200000,Semilla de cilantro,200201,Tonelada
+6210000,Cineraria ,200206,Planta
+6210000,Cineraria,200206,Planta
+6210000,Cineraria (planta),200206,Planta
+6220000,Ciruela,200201,Tonelada
+6230000,Cítricos,200201,Tonelada
+6240000,Clavel,200203,Gruesa
+6240000,Clavel,200201,Tonelada
+6250000,Clavel,200203,Gruesa
+6250000,Clavel (gruesa),200203,Gruesa
+6280000,Clyptoria,200201,Tonelada
+6300000,Coco fruta,200201,Tonelada
+6310000,Col (repollo),200201,Tonelada
+6320000,Col de bruselas,200201,Tonelada
+6330000,Coliflor,200201,Tonelada
+6340000,Semilla de coliflor,200201,Tonelada
+6370000,Colza,200201,Tonelada
+6390000,Comino,200201,Tonelada
+6400000,Copra,200201,Tonelada
+6410000,Coquia,200201,Tonelada
+6450000,Crisantemo (gruesa),200203,Gruesa
+6450000,Crisantemo,200206,Planta
+6450000,Crisantemo,200203,Gruesa
+6450000,Crisantemo (gruesa),200206,Planta
+6455000,Crisantemo (planta),200206,Planta
+6455000,Crisantemo,200206,Planta
+6460000,Cyclamen,200206,Planta
+6460000,Cyclamen ,200206,Planta
+6460000,Cyclamen (planta),200206,Planta
+6490000,Dátil,200201,Tonelada
+6520000,Dólar ,200205,Manojo
+6520000,Dólar,200205,Manojo
+6520000,Dólar (manojo),200205,Manojo
+6530000,Durazno,200201,Tonelada
+6540000,Ebo (janamargo o veza),200201,Tonelada
+6560000,Ebo (janamargo o veza) grano,200201,Tonelada
+6600000,Ejote,200201,Tonelada
+6610000,Elote,200201,Tonelada
+6620000,Eneldo,200201,Tonelada
+6630000,Epazote,200201,Tonelada
+6650000,Espárrago,200201,Tonelada
+6660000,Especias y medicinales,200201,Tonelada
+6670000,Espinaca,200201,Tonelada
+6680000,Estropajo,200201,Tonelada
+6690000,Eucalipto,200201,Tonelada
+6700000,Flor cera,200201,Tonelada
+6700000,Flor cera,200203,Gruesa
+6740000,Flor perrito,200201,Tonelada
+6750000,Flores,200201,Tonelada
+6760000,Flores,200203,Gruesa
+6770000,Flores,200205,Manojo
+6780000,Flores,200206,Planta
+6790000,Semilla de flores,200201,Tonelada
+6800000,Forrajes,200201,Tonelada
+6810000,Frambuesa,200201,Tonelada
+6820000,Fresa,200206,Planta
+6820000,Fresa,200201,Tonelada
+6830000,Fresa (planta),200206,Planta
+6830000,Fresa,200206,Planta
+6840000,Frijol,200201,Tonelada
+6850000,Semilla de frijol,200201,Tonelada
+6855000,Frijol x pelón,200201,Tonelada
+6870000,Frutales varios,200201,Tonelada
+6880000,Gai lan (kay laan),200201,Tonelada
+6890000,Garbanzo forrajero,200201,Tonelada
+6900000,Garbanzo grano,200201,Tonelada
+6905000,Garbanzo porquero,200201,Tonelada
+6920000,Geranio,200206,Planta
+6920000,Geranio (planta),200206,Planta
+6930000,Gerbera (gruesa),200203,Gruesa
+6930000,Gerbera,200203,Gruesa
+6930000,Gerbera ,200203,Gruesa
+6940000,Girasol,200201,Tonelada
+6950000,Girasol flor ,200203,Gruesa
+6950000,Girasol flor,200203,Gruesa
+6950000,Girasol flor (gruesa),200203,Gruesa
+6960000,Girasol forrajero,200201,Tonelada
+6990000,Gladiola (gruesa),200203,Gruesa
+6990000,Gladiola,200203,Gruesa
+7010000,Granada,200201,Tonelada
+7020000,Guaje,200201,Tonelada
+7030000,Guaje (verdura),200201,Tonelada
+7040000,Guamúchil,200201,Tonelada
+7050000,Guanábana,200201,Tonelada
+7060000,Guayaba,200201,Tonelada
+7100000,Haba grano,200201,Tonelada
+7110000,Haba verde,200201,Tonelada
+7120000,Helecho,200201,Tonelada
+7120000,Helecho,200205,Manojo
+7121000,Helecho,200206,Planta
+7121000,Helecho (planta),200206,Planta
+7130000,Henequén,200201,Tonelada
+7140000,Hierbabuena,200201,Tonelada
+7150000,Higo,200201,Tonelada
+7160000,Higuerilla,200201,Tonelada
+7165000,"Hongos, setas y champiñones",200201,Tonelada
+7170000,Hortalizas,200201,Tonelada
+7175000,Hortensia ,200206,Planta
+7175000,Hortensia,200206,Planta
+7175000,Hortensia (planta),200206,Planta
+7180000,Huauzontle,200201,Tonelada
+7190000,Hule hevea,200201,Tonelada
+7200000,Inmortal ,200205,Manojo
+7200000,Inmortal (manojo),200205,Manojo
+7200000,Inmortal,200205,Manojo
+7210000,Jaca (jackfruit),200201,Tonelada
+7220000,Jamaica,200201,Tonelada
+7230000,Jengibre,200201,Tonelada
+7230000,Jenjibre,200201,Tonelada
+7240000,Jícama,200201,Tonelada
+7250000,Semilla de jícama,200201,Tonelada
+7270000,Kale,200201,Tonelada
+7315000,Semilla de kenaf,200201,Tonelada
+7320000,Kohlrabi,200201,Tonelada
+7330000,Lechuga,200201,Tonelada
+7350000,Lenteja,200201,Tonelada
+7370000,Lilium (azucena),200206,Planta
+7370000,Lilium,200203,Gruesa
+7370000,Lilium (gruesa),200203,Gruesa
+7370000,Lilium (gruesa),200206,Planta
+7370000,Lilium (azucena),200203,Gruesa
+7375000,Lilium (azucena),200206,Planta
+7375000,Lilium,200206,Planta
+7375000,Lilium (planta),200206,Planta
+7380000,Lima,200201,Tonelada
+7390000,Limón,200201,Tonelada
+7400000,Limón real,200201,Tonelada
+7405000,Limonium ,200205,Manojo
+7405000,Limonium (manojo),200205,Manojo
+7405000,Limonium,200205,Manojo
+7410000,Linaza,200201,Tonelada
+7415000,Linaza ornamental (manojo),200205,Manojo
+7415000,Linaza ornamental,200205,Manojo
+7420000,Litchi,200201,Tonelada
+7440000,Macadamia,200201,Tonelada
+7450000,Maguey pulquero,200204,Miles de lts.
+7450000,Maguey pulquero (miles de lts.),200204,Miles de lts.
+7451000,Maguey mixiotero,200201,Tonelada
+7452000,Maguey,200201,Tonelada
+7470000,Maíz forrajero en verde,200201,Tonelada
+7490000,Maíz grano,200201,Tonelada
+7500000,Semilla de maíz grano,200201,Tonelada
+7510000,Maíz palomero,200201,Tonelada
+7530000,Malanga,200201,Tonelada
+7540000,Mamey,200201,Tonelada
+7550000,Mandarina,200201,Tonelada
+7560000,Mango,200201,Tonelada
+7570000,Mano de león,200201,Tonelada
+7570000,Mano de león,200205,Manojo
+7575000,Mano de león,200205,Manojo
+7580000,Manzana,200201,Tonelada
+7590000,Manzanilla,200201,Tonelada
+7600000,Maracuyá,200201,Tonelada
+7610000,Marañón,200201,Tonelada
+7620000,Margarita,200201,Tonelada
+7620000,Margarita,200205,Manojo
+7630000,Margarita,200205,Manojo
+7660000,Mejorana,200201,Tonelada
+7670000,Melón,200201,Tonelada
+7675000,Melón amargo,200201,Tonelada
+7690000,Membrillo,200201,Tonelada
+7700000,Menta,200201,Tonelada
+7710000,Mijo,200201,Tonelada
+7750000,Mijo forrajero verde,200201,Tonelada
+7755000,Moringa,200201,Tonelada
+7760000,Mostaza,200201,Tonelada
+7780000,Nabo,200201,Tonelada
+7790000,Nabo forrajero,200201,Tonelada
+7830000,Nanche,200201,Tonelada
+7840000,Napa,200201,Tonelada
+7850000,Naranja,200201,Tonelada
+7860000,Nardo,200203,Gruesa
+7860000,Nardo,200201,Tonelada
+7870000,Nardo (gruesa),200203,Gruesa
+7870000,Nardo,200203,Gruesa
+7885000,Neem,200201,Tonelada
+7890000,Níspero,200201,Tonelada
+7900000,Nochebuena,200206,Planta
+7900000,Nochebuena ,200206,Planta
+7900000,Nochebuena (planta),200206,Planta
+7905000,Noni,200201,Tonelada
+7910000,Nopal forrajero,200201,Tonelada
+7920000,Nopalitos,200201,Tonelada
+7930000,Nube,200201,Tonelada
+7930000,Nube,200205,Manojo
+7950000,Nube (manojo),200205,Manojo
+7950000,Nube,200205,Manojo
+7960000,Nuez,200201,Tonelada
+7980000,Okra (angú o gombo),200201,Tonelada
+8010000,Orégano,200201,Tonelada
+8015000,Orquídea,200206,Planta
+8015000,Orquídea (gruesa),200203,Gruesa
+8015000,Orquídea (gruesa),200206,Planta
+8015000,Orquídea,200203,Gruesa
+8015000,Orquídea ,200203,Gruesa
+8016000,Orquídea,200206,Planta
+8016000,Orquídea ,200206,Planta
+8020000,Pak choi,200201,Tonelada
+8030000,Palma africana o de aceite,200201,Tonelada
+8050000,Palma de ornato,200206,Planta
+8050000,Palma de ornato,200201,Tonelada
+8060000,Palma de ornato (planta),200206,Planta
+8060000,Palma de ornato,200206,Planta
+8070000,Palma camedor (gruesa),200203,Gruesa
+8070000,Palma camedor ,200203,Gruesa
+8070000,Palma camedor,200203,Gruesa
+8080000,Palma taco,200201,Tonelada
+8100000,Papa,200201,Tonelada
+8110000,Semilla de papa,200201,Tonelada
+8120000,Pápalo,200201,Tonelada
+8130000,Papaya,200201,Tonelada
+8150000,Pasto tapete,200217,Metro cuadrado
+8150000,Pasto tapete (m2),200217,Metro cuadrado
+8180000,Pastos y praderas,200201,Tonelada
+8205000,Pensamiento (planta),200206,Planta
+8205000,Pensamiento ,200206,Planta
+8205000,Pensamiento,200206,Planta
+8210000,Pepino,200201,Tonelada
+8230000,Pera,200201,Tonelada
+8240000,Perejil,200201,Tonelada
+8250000,Perón,200201,Tonelada
+8260000,Persimonio,200201,Tonelada
+8270000,Petunia,200206,Planta
+8270000,Petunia (planta),200206,Planta
+8270000,Petunia ,200206,Planta
+8280000,Pimienta,200201,Tonelada
+8290000,Piña,200201,Tonelada
+8300000,Piñón,200201,Tonelada
+8320000,Pipicha,200201,Tonelada
+8330000,Pistache,200201,Tonelada
+8340000,Pitahaya,200201,Tonelada
+8350000,Pitaya,200201,Tonelada
+8370000,Plantas de ornato (planta),200206,Planta
+8370000,Plantas de ornato ,200206,Planta
+8370000,Plantas de ornato,200206,Planta
+8380000,Plantero de tabaco (planta),200206,Planta
+8380000,Plantero de tabaco ,200206,Planta
+8380000,Plantero de tabaco,200206,Planta
+8390000,Plátano,200201,Tonelada
+8400000,Polar,200203,Gruesa
+8400000,Polar,200201,Tonelada
+8410000,Polar,200203,Gruesa
+8410000,Polar (gruesa),200203,Gruesa
+8430000,Pon-pon (gruesa),200203,Gruesa
+8430000,Pon-pon,200203,Gruesa
+8430000,Pon-pon ,200203,Gruesa
+8440000,Poro (leek),200201,Tonelada
+8460000,Quelite,200201,Tonelada
+8490000,Rábano,200201,Tonelada
+8510000,Rambután,200201,Tonelada
+8515000,Ramón,200201,Tonelada
+8520000,Rapini,200201,Tonelada
+8530000,Remolacha azucarera,200201,Tonelada
+8540000,Remolacha forrajera,200201,Tonelada
+8580000,Romerito,200201,Tonelada
+8590000,Romero,200201,Tonelada
+8600000,Rosa,200206,Planta
+8600000,Rosa,200203,Gruesa
+8600000,Rosa,200201,Tonelada
+8610000,Rosa,200203,Gruesa
+8610000,Rosa (gruesa),200203,Gruesa
+8620000,Rosa (planta),200206,Planta
+8620000,Rosa,200206,Planta
+8680000,Sábila,200201,Tonelada
+8700000,Salvia,200201,Tonelada
+8710000,Sandía,200201,Tonelada
+8720000,Semilla de sandía,200201,Tonelada
+8730000,Saramuyo,200201,Tonelada
+8735000,Shangai-bock-choy,200201,Tonelada
+8740000,Shop suey,200201,Tonelada
+8760000,Solidago,200205,Manojo
+8760000,Solidago (manojo),200205,Manojo
+8760000,Solidago ,200205,Manojo
+8770000,Sorgo escobero,200201,Tonelada
+8780000,Sorgo forrajero en verde,200201,Tonelada
+8780000,Sorgo forrajero achicalado,200201,Tonelada
+8790000,Sorgo forrajero en verde,200201,Tonelada
+8800000,Sorgo forrajero en verde,200201,Tonelada
+8800000,Sorgo forrajero seco,200201,Tonelada
+8810000,Sorgo grano,200201,Tonelada
+8820000,Semilla de sorgo grano,200201,Tonelada
+8830000,Soya,200201,Tonelada
+8840000,Semilla de soya,200201,Tonelada
+8850000,Statice,200205,Manojo
+8850000,Statice,200201,Tonelada
+8860000,Statice,200205,Manojo
+8870000,Tabaco,200201,Tonelada
+8880000,Tamarindo,200201,Tonelada
+8890000,Tangelo,200201,Tonelada
+8910000,Tarragón,200201,Tonelada
+8920000,Té limón,200201,Tonelada
+8930000,Tejocote,200201,Tonelada
+8940000,Terciopelo,200205,Manojo
+8950000,Terciopelo (manojo),200205,Manojo
+8950000,Terciopelo,200205,Manojo
+8960000,Semilla de tomate rojo (jitomate),200201,Tonelada
+8970000,Tomate rojo (jitomate),200201,Tonelada
+8980000,Tomate verde,200201,Tonelada
+8990000,Tomillo,200201,Tonelada
+8995000,Tangerina,200201,Tonelada
+9000000,Toronja (pomelo),200201,Tonelada
+9010000,Trébol,200201,Tonelada
+9040000,Trigo forrajero verde,200201,Tonelada
+9050000,Trigo grano,200201,Tonelada
+9060000,Semilla de trigo grano,200201,Tonelada
+9070000,Trigo ornamental,200205,Manojo
+9090000,Triticale forrajero en verde,200201,Tonelada
+9110000,Triticale grano,200201,Tonelada
+9115000,Tulipán holandés,200206,Planta
+9120000,Tuna,200201,Tonelada
+9130000,Uva,200201,Tonelada
+9140000,Vainilla,200201,Tonelada
+9160000,Varios,200201,Tonelada
+9170000,Verdolaga,200201,Tonelada
+9180000,Viveros,200206,Planta
+9210000,Yu-choy,200201,Tonelada
+9212000,Yuca alimenticia,200201,Tonelada
+9250000,Semilla de pastos y praderas,200201,Tonelada
+9250000,Semilla de zacate,200201,Tonelada
+9270000,Zanahoria,200201,Tonelada
+9290000,Zapote,200201,Tonelada
+9300000,Zapupe,200201,Tonelada
+9310000,Zarzamora,200201,Tonelada
+9320000,Zempoalxochitl,200201,Tonelada
+9320000,Zempoalxochitl,200203,Gruesa
+9320000,Zempoalxochitl,200206,Planta
+9320000,Zempoalxochitl,200205,Manojo
+9330000,Zempoalxochitl (manojo),200205,Manojo
+9330000,Zempoalxochitl,200205,Manojo
+9380000,Zempoalxochitl (planta),200206,Planta
+9380000,Zempoalxochitl,200206,Planta
+9390000,Helecho,200205,Manojo
+9400000,Zempoalxochitl,200203,Gruesa
+9400000,Zempoalxochitl (gruesa),200203,Gruesa
+9500000,Jatropha,200201,Tonelada
+9600000,Hoja de plátano (belillo),200201,Tonelada
+9800000,Stevia,200201,Tonelada
+9900000,Viveros de durazno,200206,Planta
+9920000,Maguey forrajero,200201,Tonelada
+9930000,Zapote chiclero,200201,Tonelada
+9940000,Bambú,200201,Tonelada
+9950000,Semilla de cebollín,200201,Tonelada
+9960000,Mangostán,200201,Tonelada
+9970000,Semilla de triticale grano,200201,Tonelada
+9980000,Semilla de haba,200201,Tonelada
+9990000,Semilla de girasol,200201,Tonelada
+15050000,Pastos y praderas,200201,Tonelada
+15060000,Semilla de anís,200201,Tonelada
+15070000,Frijol forrajero,200201,Tonelada
