@@ -1,7 +1,8 @@
 import streamlit as st
 import plotly.express as px
-from data.acceso_data import leer_caracteristicas_municipio
+from data.acceso_data import *
 from frontend.diseño import aplicar_estilos
+from calculos.aez_comp import obtener_cultivos
 
 aplicar_estilos()
 
@@ -22,18 +23,16 @@ def mostrar_perfil_municipio(fila_muni, cultivos_df=None):
     st.markdown(f"**Estado:** {fila_muni['NOM_ENT'].iloc[0]}")
     st.markdown(f"**Municipio:** {fila_muni['NOMGEO'].iloc[0]}")
 
-    st.markdown("### Principales cultivos")
+    st.markdown("**Principales cultivos del municipio**")
+    cultivos_muni = obtener_cultivos(cvegeo)
 
-    if cultivos_df is not None:
-        fig = px.bar(
-            cultivos_df,
-            x="Cultivo",
-            y="Superficie",
-            title="Top cultivos",
-            height=300
-        )
-        st.plotly_chart(fig, use_container_width=True)
+    if len(cultivos_muni) == 0:
+        st.markdown("No hay cultivos registrados en el cierre agrícola.")
     else:
-        st.info("No hay datos de cultivos disponibles.")
+        # si quieres mostrar ID y nombre:
+        nombres = df_catalogo_cultivos.set_index("Idcultivo")["Nomcultivo"].to_dict()
+        lista = [f"{cid} — {nombres.get(cid, 'Desconocido')}" for cid in cultivos_muni]
+
+        st.markdown("- " + "<br>- ".join(lista), unsafe_allow_html=True)
 
     st.markdown('</div>', unsafe_allow_html=True)

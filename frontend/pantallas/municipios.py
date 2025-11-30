@@ -13,6 +13,7 @@ from frontend.componentes.elementos.perfil_municipio import mostrar_perfil_munic
 from calculos.modelo import (comparar_municipios,comparar_municipios_detallado,normalizar_cvegeo)
 from frontend.componentes.graficas.grafica_muni import graficar_similitud_municipios, graficar_sequia
 from data.acceso_data import *
+from calculos.aez_comp import * 
 def pantalla_municipios():
 
     #tabla_muni = pd.read_parquet("data/tabla_municipios.parquet")
@@ -89,6 +90,7 @@ def pantalla_municipios():
     with col_profile:
         mostrar_perfil_municipio(fila_muni)
 
+
     with col_main:
         tabla = tabla_muni.copy()
         tabla["CVEGEO"] = tabla["CVEGEO"].apply(normalizar_cvegeo)
@@ -133,12 +135,21 @@ def pantalla_municipios():
                 st.markdown(f"Comparación entre **{municipio_nombre}** y **{nombre_otro}**")
                 detalle = comparar_municipios_detallado(cvegeo_base, cve_otro)
                 st.code(detalle)
+                st.markdown("---")
+                st.markdown("### 🌱 Comparación de cultivos entre municipios")
+                cultivos = comparar_municipios_cultivo(cvegeo_base, cve_otro)
+                st.write("**Cultivos en común:**")
+                st.dataframe(cultivos["cultivos_comunes"])
+
 
     # Gráfica de sequía 
         cvegeo_base = cvegeo_base        # CVEGEO del municipio base
         top10 = df_res.head(10)["CVEGEO"].tolist()  # Lista de municipios similares
         fig_seq = graficar_sequia(sequia, cvegeo_base, top10, tabla_muni)
         st.pyplot(fig_seq)
+
+        comparar_municipios_cultivo(cvegeo_base, cve_otro)
+        
 
 
     
