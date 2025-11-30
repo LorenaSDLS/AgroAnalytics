@@ -103,7 +103,7 @@ def comparar_topoforma(text1, text2):
     Devuelve un valor entre 0 y 1 que indica la similitud entre los textos.
     1 → los textos son idénticos
     0 → los textos no tienen nada en común
-    da más peso a los prefijos iguales al inicio del texto
+    
     """
     distancia = Levenshtein.jaro_winkler(text1, text2)
     return distancia

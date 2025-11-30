@@ -26,6 +26,7 @@ tablas = {
 }
 
 
+
 def get_campos(tabla, columnas, cvegeo):
     """
     Regresa un diccionario con varias columnas pedidas de la tabla especificada.

@@ -143,7 +143,7 @@ def pantalla_municipios():
 
 
     # Gráfica de sequía 
-        cvegeo_base = cvegeo_base        # CVEGEO del municipio base
+                st.markdown("**Niveles de sequía comparados**")
         top10 = df_res.head(10)["CVEGEO"].tolist()  # Lista de municipios similares
         fig_seq = graficar_sequia(sequia, cvegeo_base, top10, tabla_muni)
         st.pyplot(fig_seq)

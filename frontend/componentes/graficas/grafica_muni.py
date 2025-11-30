@@ -22,6 +22,7 @@ def graficar_similitud_municipios(df_similitud):
 
     return plt.gcf()
 
+
 def graficar_sequia(df_sequia, municipio, lista_municipios, tabla_muni):
     """
     df_sequia: DataFrame con columnas 'CVEGEO', 'Fecha', 'Nivel_Sequia'
@@ -68,4 +69,6 @@ def graficar_sequia(df_sequia, municipio, lista_municipios, tabla_muni):
     fig.tight_layout()
 
     return fig
+
+
 
