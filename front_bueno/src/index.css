@@ -1,0 +1,54 @@
+/* stylelint-disable at-rule-no-unknown */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* variables de color */
+:root{
+  --mostaza: #D19739;    /* fondo */
+  --dark-green: #314528; /* sidebar */
+  --card-bg: #F8F7F3;    /* cards */
+  --table-blue: #AFC3D9; /* tablas */
+  --accent-green: #3cb1b3;
+  --azulito: #586E86;
+  --amarillo-oscuro: #9B7832;
+  --beige: #E4E1D4;
+}
+
+/* ejemplo clase para fondo global */
+body {
+  background: var(--mostaza);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+
+.medium-small {
+  font-size: 24px;
+}
+
+.text-button {
+  font-size: 20px;
+}
+.text-large {
+  font-size: 17px;
+}
+
+.text-principal {
+  font-size: 32px;
+}
+
+.shadowed-text {
+  text-shadow: -4px 5px 3px rgba(0, 0, 0, 0.5); /* X-offset Y-offset Blur Color */
+}
+
+.card-container {
+  display: flex;
+  align-items: flex-start; /* Align items to the left */
+}
+
+.img-size {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}

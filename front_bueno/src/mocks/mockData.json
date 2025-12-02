@@ -1,0 +1,40 @@
+{
+  "estadisticas": {
+    "total_produccion": 12013,
+    "cultivos_analizados": 120,
+    "anios": 11
+  },
+
+  "top_similares": [
+    { "municipio": "Puerto Vallarta", "estado": "Jalisco", "cvegeo": "14020", "similitud": 51.48 },
+    { "municipio": "Iguapala", "estado": "Guerrero", "cvegeo": "12034", "similitud": 50.63 },
+    { "municipio": "Chiautlan", "estado": "Jalisco", "cvegeo": "14050", "similitud": 50.19 }
+  ],
+
+  "municipios": [
+    { "cvegeo": "12001", "nomgeo": "Lázaro Cárdenas", "nombre_ent": "Michoacán" },
+    { "cvegeo": "14020", "nomgeo": "Puerto Vallarta", "nombre_ent": "Jalisco" }
+  ],
+
+  "produccion_anual": [
+    { "anio": 2014, "produccion": 7500 },
+    { "anio": 2015, "produccion": 7800 },
+    { "anio": 2016, "produccion": 7100 },
+    { "anio": 2017, "produccion": 7600 },
+    { "anio": 2020, "produccion": 3200 },
+    { "anio": 2021, "produccion": 8000 },
+    { "anio": 2024, "produccion": 7900 }
+  ],
+
+  "cultivos": [
+    { "id": "Q001", "nombre": "Quinoa" }
+  ],
+
+  "municipios_productores": [
+    { "cvegeo": "CL007", "nombre": "Rincón de Romos", "produccion_ton": 11.0 }
+  ],
+
+  "municipios_menor_produccion": [
+    { "cvegeo": "CL007", "nombre": "Rincón de Romos", "produccion_ton": 10.0 }
+  ]
+}

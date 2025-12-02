@@ -1,0 +1,74 @@
+{
+  "status": "ok",
+  "mensaje": "Municipio consultado correctamente",
+  "perfil_municipio": {
+    "estado": "Jalisco",
+    "municipio": "Puerto Vallarta",
+    "cvegeo": "14020",
+    "poblacion": 291839,
+    "superficie_km2": 1300,
+    "principales_cultivos": [
+      "Mango",
+      "Caña de azúcar",
+      "Aguacate"
+    ]
+  },
+
+  "estadisticas": {
+    "comparacion_estado": "Comparación de Jalisco con el resto del país",
+    "total_produccion": 158320,
+    "promedio_anual": 8200,
+    "anios_registrados": 11
+  },
+
+  "municipios_mas_similares": [
+    {
+      "cvegeo": "14050",
+      "municipio": "Chiautlan",
+      "estado": "Jalisco",
+      "similitud": 50.19,
+      "produccion_ton": 3100
+    },
+    {
+      "cvegeo": "12034",
+      "municipio": "Iguapala",
+      "estado": "Guerrero",
+      "similitud": 50.63,
+      "produccion_ton": 2950
+    },
+    {
+      "cvegeo": "08015",
+      "municipio": "Ahumada",
+      "estado": "Chihuahua",
+      "similitud": 48.92,
+      "produccion_ton": 2700
+    },
+    {
+      "cvegeo": "03012",
+      "municipio": "Los Cabos",
+      "estado": "Baja California Sur",
+      "similitud": 47.88,
+      "produccion_ton": 2600
+    },
+    {
+      "cvegeo": "05022",
+      "municipio": "Temascalcingo",
+      "estado": "Estado de México",
+      "similitud": 46.11,
+      "produccion_ton": 2500
+    }
+  ],
+
+  "grafica": {
+    "titulo": "Producción anual del municipio",
+    "series": [
+      { "anio": 2014, "valor": 7500 },
+      { "anio": 2015, "valor": 7800 },
+      { "anio": 2016, "valor": 7100 },
+      { "anio": 2017, "valor": 7600 },
+      { "anio": 2020, "valor": 3200 },
+      { "anio": 2021, "valor": 8000 },
+      { "anio": 2024, "valor": 7900 }
+    ]
+  }
+}
